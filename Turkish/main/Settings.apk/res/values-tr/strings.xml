@@ -5316,7 +5316,6 @@
   <string name="megabyte_per_second">M/sn</string>
   <string name="megabyteShort">MB</string>
   <string name="mi_service_app_detail">Veri kullanım detayları</string>
-  <string name="mi_upi_settings">Mi Ödeme Hesabı</string>
   <string name="network_changed_noti_summary">Mobil veri kullanılıyor</string>
   <string name="network_changed_noti_title">WLAN bağlantısı kesildi</string>
   <string name="network_control">Uygulama ayarlarını görüntüle</string>
