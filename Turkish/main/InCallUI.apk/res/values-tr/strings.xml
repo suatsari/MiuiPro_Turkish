@@ -1082,5 +1082,6 @@ mevcut değil"</string>
   <string name="video_crbt_title">%s video zil sesi</string>
   <string name="crbt_second_hold_prompt">%s beklemede…</string>
   <string name="crbt_second_hold_prompt_conference">Konferans görüşmesi beklemede…</string>
-  <string name="crbt_second_hold_prompt_no_name">Önceki çağrı beklemede…</string>  
+  <string name="crbt_second_hold_prompt_no_name">Önceki çağrı beklemede…</string>
+  <string name="prompt_no_volte_when_failed">"VoLTE servisleri mevcut değil."</string>
 </resources>
