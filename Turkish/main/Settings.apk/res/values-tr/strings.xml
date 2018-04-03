@@ -3511,7 +3511,7 @@
   <string name="search_sync_settings">Eşitle;Otomatik;Sadece WLAN</string>
   <string name="search_system_app_settings">Sistem Uygulamaları</string>
   <string name="search_theme_settings_title">Temalar; Tema; Kişiselleştirme; kişiselleştirin</string>
-  <string name="search_touch_assistant">Kısayol Menüsü</string>
+  <string name="search_touch_assistant">Kısayol Düğmesi</string>
   <string name="search_touch_sensitive_title">Eldiven Modu</string>
   <string name="search_trusted_credentials">Güvenilir Siciller</string>
   <string name="search_tts_settings_title">Metinden Konuşmaya Çıkışı</string>
@@ -4202,8 +4202,8 @@
   <string name="total_memory">Toplam Hafıza</string>
   <string name="total_size">Toplam: %s</string>
   <string name="total_size_label">Toplam</string>
-  <string name="touch_assistant">Kısayol Menüsü</string>
-  <string name="touch_filtered_warning">Ayarlar doğrulanamıyor çünkü bu uygulamanın izin isteğini engelle.</string>
+  <string name="touch_assistant">Kısayol Düğmesi</string>
+  <string name="touch_filtered_warning">Ayarlar doğrulanamıyor, bu uygulamanın izin isteğini engelle.</string>
   <string name="touch_sensitive_summary">Cihazınızı kontrol etmek için dokunma hassasiyetini ayarlayın</string>
   <string name="touch_sensitive_title">Eldiven Modu</string>
   <string name="touch_sensitive_turn_off_cancel">İptal</string>

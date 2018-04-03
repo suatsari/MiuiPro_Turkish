@@ -170,8 +170,8 @@
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
         <item>Sadece kilit ekranında göster</item>
-        <item>Sadece durum çubuğunda göster</item>
-        <item>Operatör adını asla gösterme</item>
+        <item>Her zaman göster</item>
+        <item>Hiçbir zaman gösterme</item>
     </string-array>
     <string-array name="check_importance_entries">
         <item>Tavsiye edilen</item>
