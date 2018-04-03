@@ -381,4 +381,12 @@
         <item>Dondurucu Yağmur</item>
         <item>Veri yok</item>
     </string-array>
+    <string-array name="select_logd_system_levels">
+        <item>Kapalı</item>
+        <item>Hata</item>
+        <item>Uyarma</item>
+        <item>Bilgi</item>
+        <item>Hata ayıklama</item>
+        <item>Ayrıntılı</item>
+    </string-array>	
 </resources>

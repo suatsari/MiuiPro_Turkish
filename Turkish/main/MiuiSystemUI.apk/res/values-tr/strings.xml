@@ -802,5 +802,6 @@
   <string name="prompt_unknown">Bilinmeyen</string>
   <string name="low_temperature_warning_message">Sıcaklık çok düşük. Telefonunuz her an kapanabilir. Tüm önemli değişiklikleri kaydettiğinizden emin olun.</string>
   <string name="low_temperature_warning_title">Düşük sıcaklık uyarısı</string>
-  <string name="click_to_return_multi_window_of_notch">Bölünmüş ekrana dön</string> 
+  <string name="click_to_return_multi_window_of_notch">Bölünmüş ekrana dön</string>
+  <string name="select_logd_level">Günlük seviyesini seç</string>
 </resources>
