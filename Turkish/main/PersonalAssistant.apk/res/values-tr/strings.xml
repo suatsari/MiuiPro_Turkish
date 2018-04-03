@@ -121,7 +121,7 @@
   <string name="card_settings_rule">Kart sipariş ayarları</string>
   <string name="card_title_empty_agenda">yolculuk yok</string>
   <string name="card_title_empty_express">hızlı teslimat yok</string>
-  <string name="card_title_empty_note">bir şey unutma</string>
+  <string name="card_title_empty_note">not yok</string>
   <string name="card_title_express">Teslimatım</string>
   <string name="card_title_favorite">Favoriler</string>
   <string name="card_title_funclaunch">Kısayollar</string>
