@@ -51,7 +51,7 @@
   <string name="accessibility_video_module_picker">Video Modunu Seç</string>
   <string name="accessibility_video_pause_button">Video Durdurma Düğmesi</string>
   <string name="accessibility_zoom_button">"Yakınlaştırma modu "</string>
-  <string name="ai_scene_mode_use_hint_text">AI-Scene kamerayı açın, sizin için resim sahnesini tanımlayın\nve sahneye dayalı resmi optimize edin</string>
+  <string name="ai_scene_mode_use_hint_text">AI kamera sahneleri otomatik olarak algılar ve bu bilgilere dayanarak fotoğraflarınızı optimize eder</string>
   <string name="audio_focus_exit_button_text">Sese Odaklanmayı Kapat</string>
   <string name="beauty_fragment_tab_name_beauty">Güzellik</string>
   <string name="beauty_fragment_tab_name_makeup">Gelişmiş</string>
@@ -194,7 +194,7 @@
   <string name="pref_burst_shoot_title">Seri Çekim</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Kamera Ayarları</string>
-  <string name="pref_camera_ai_scene_title">AI Kamera</string>
+  <string name="pref_camera_ai_scene_title">AI kamera</string>
   <string name="pref_camera_antibanding_entry_0">Kapalı</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
