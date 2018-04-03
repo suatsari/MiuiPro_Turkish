@@ -600,4 +600,17 @@
   <string name="wqfile_group_chat_voice">Sohbet sesi</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yesterday">Dün</string>
+  <string name="auto_clean_notification_content">Çöp kutusunun %s kadarı temizlendi</string>
+  <string name="auto_clean_notification_title">Temizlemeyi hatırlat</string>
+  <string name="auto_clean_operation_clean_and_alert">Hatırlat ve temizle</string>
+  <string name="auto_clean_operation_dialog_title">Temizleme yöntemi</string>
+  <string name="auto_clean_operation_just_clean">Sadece temizle</string>
+  <string name="auto_clean_trigger_dialog_title">Depolama alanını temizle</string>
+  <string name="auto_clean_trigger_percent_eighty">%80 dolduğunda</string>
+  <string name="auto_clean_trigger_percent_ninety">%90 dolduğunda</string>
+  <string name="auto_clean_trigger_percent_sixty">%60 dolduğunda</string>
+  <string name="pref_category_title_auto_clean_config_settings">Otomatik temizleme</string>
+  <string name="pref_title_auto_clean">Otomatik olarak temizle</string>
+  <string name="pref_title_auto_clean_operation">Temizleme yöntemi</string>
+  <string name="pref_title_auto_clean_trigger">Depolama alanını temizle</string>
 </resources>
