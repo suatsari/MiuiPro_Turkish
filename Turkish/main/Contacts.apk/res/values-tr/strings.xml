@@ -311,7 +311,7 @@ Kartvizitler kapalı"</string>
   <string name="deleteConfirmation_title">Bu kişi silinsin mi?</string>
   <string name="delete_call_log_message">Çağrı geçmişi silinsin mi?</string>
   <string name="delete_call_log_selected_title">Seçili çağrı geçmişi silinsin mi?</string>
-  <string name="delete_call_log_title">Çağrı geçmişini seç</string>
+  <string name="delete_call_log_title">Çağrı geçmişini temizle</string>
   <string name="delete_contact_calllog_title">Çağrı geçmişi silinsin mi?</string>
   <string name="delete_dial_input">Sil</string>
   <string name="delete_duplicate">Birleştir</string>
@@ -1484,5 +1484,11 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="quick_dial_setting_set_dialog_message">Bu tuşa bir hızlı arama numarası atama?</string>
   <string name="quick_dial_setting_set_dialog_option_set">Evet</string>
   <string name="quick_dial_setting_title">Hızlı arama</string>
-  <string name="search_quick_dial_setting">Kişiler</string>  
+  <string name="search_quick_dial_setting">Kişiler</string>
+  <string name="pref_key_sdn_manage">SDN görüntüle</string>
+  <string name="pref_key_sdn_manage1">SDN Kart 1\'i göster</string>
+  <string name="pref_key_sdn_manage2">SDN Kart 2\'yi göster</string>
+  <string name="sdnContacts_empty">SDN yok</string>
+  <string name="sdnContacts_emptyLoading">SDN yükleniyor…</string
+  <string name="special_code_security_exception">İşlem reddedildi : Varsayılan çevirici değil</string>  
 </resources>
