@@ -324,9 +324,9 @@
   <string name="miui_screen_config_title">Ana Ekran Ayarları</string>
   <string name="open_personal_assistant_dialog_btn_cancel">İptal</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Kapat</string>
-  <string name="open_personal_assistant_dialog_desc">Akıllı Yardımcıyı kullanamaz ve güncellemelerini alamazsınız. Şimdi kapatılsın mı?</string>
-  <string name="open_personal_assistant_dialog_title">Akıllı Yardımcıyı kapat</string>
-  <string name="open_personal_assistant_title">Akıllı Yardımcıyı aç</string>
+  <string name="open_personal_assistant_dialog_desc">Uygulama Kasası\'nı kullanamaz ve güncellemelerini alamazsınız. Şimdi kapatılsın mı?</string>
+  <string name="open_personal_assistant_dialog_title">Uygulama Kasası\'nı kapat</string>
+  <string name="open_personal_assistant_title">Uygulama Kasası\'nı aç</string>
   <string name="preferred_app_settings_not_selected">Seçilmedi</string>
   <string name="recents_config_title">En Son</string>
   <string name="screen_cells_config_title">Ana Ekran Düzeni</string>
