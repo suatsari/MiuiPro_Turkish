@@ -2177,4 +2177,18 @@ bir şifre kullanın"</string>
   <string name="xunyou_net_booster_detail">Oyun için Xunyou hız arttırma servislerini kullanın</string>
   <string name="xunyou_pay_webview">Yalnızca yüzdelik</string>
   <string name="xunyou_server_expired">Kapalı</string>
+  <string name="dialog_button_ignore">Yoksay</string>
+  <string name="dialog_button_yes">Evet</string>
+  <string name="summary_background_connection">Bu uygulama için arka plan bağlantısını kısıtladınız. Düzeltmek için dokunun.</string>
+  <string name="summary_block_calls_from_cantacts">Engelleme listesi kullanıyorsunuz. Düzeltmek için dokunun.</string>
+  <string name="summary_block_calls_from_strangers">Sadece kişilerden gelen aramalara izin verilir. Düzeltmek için dokunun.</string>
+  <string name="summary_do_not_disturb">Sessiz mod kullanıyorsunuz. Düzeltmek için dokunun."</string>
+  <string name="summary_eye_shield">Okuma modu kullanıyorsunuz. Düzeltmek için dokunun.</string>
+  <string name="summary_restrict_data_usage">Bu uygulama için veri kullanımını kısıtladınız. Düzeltmek için dokunun.</string>
+  <string name="title_background_connection">%s arka planda kullanamıyor musunuz?</string>
+  <string name="title_block_calls_from_cantacts">Kişilerinizden çağrı mı kaçırdınız?</string>
+  <string name="title_block_calls_from_strangers">Kaçırdığınız önemli aramalar mı?</string>
+  <string name="title_do_not_disturb">Zil sesini duyamıyor musun?</string>
+  <string name="title_eye_shield">Ekran rengi doğru görünmüyor mu?</string>
+  <string name="title_restrict_data_usage">%s internete bağlanamıyor mu?</string>  
 </resources>
