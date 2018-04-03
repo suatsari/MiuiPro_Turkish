@@ -369,5 +369,10 @@
   <string name="encrypt_space_delete_dialog_positive_text">Verileri taşı</string>
   <string name="encrypt_space_delete_dialog_title">Dikkat</string>
   <string name="encrypt_space_delete_notification_message">İkinci alanınızı silin ve cihazınızı başarıyla güncelleyince yeni bir tane oluşturun.</string>
-  <string name="encrypt_space_delete_notification_title">İkinci alan</string>  
+  <string name="encrypt_space_delete_notification_title">İkinci alan</string> 
+  <string name="entrance_reopen_toast_msg">Farklı şifre türleri nedeniyle İkinci alan kısayolu gösteriliyor</string>
+  <string name="reset_password_dialog_message">"İlk alan ve İkinci alan için farklı şifre türleri kullanıyorsunuz. İkinci alan, gizlenecek kısayol için İlk alanla aynı parola türünü kullanmalıdır."</string>
+  <string name="reset_password_dialog_positve_btn_title">Değiştir</string>
+  <string name="reset_password_dialog_title">İkinci alan kısayolunu gizleyemiyorum</string>
+  <string name="xspace_install_completed_global">Simge çekmeceye eklendi</string> 
 </resources>
