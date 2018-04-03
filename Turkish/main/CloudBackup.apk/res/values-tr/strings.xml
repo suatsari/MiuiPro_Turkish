@@ -155,5 +155,9 @@
   <string name="dialog_btn_next">Sonraki</string>
   <string name="dialog_btn_restore_skip">Daha sonra geri yükle</string>
   <string name="dialog_msg_restore_require_wlan">Yedek dosyaları geri yüklemek WLAN gerektirir.</string>
-  <string name="dialog_title_require_wlan">WLAN gerekli</string>  
+  <string name="dialog_title_require_wlan">WLAN gerekli</string>
+  <string name="get_device_id_error">Cihaz kimliği alınamadı</string>
+  <string name="home_hint_global_launcher">Poco Masaüstü</string>
+  <string name="home_restore_error">Ana ekranı geri yükleme başarısız oldu</string>
+  <string name="self_phone_home">Bu telefon: %s</string> 
 </resources>
