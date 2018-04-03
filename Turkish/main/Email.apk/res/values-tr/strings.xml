@@ -1125,5 +1125,20 @@ Posta eşitlenmeden önce "Şimdi Eşitleye dokunun veya bu hesabın postaları 
   <string name="qq_auto_login_failed_cpy_pass_success">Başarıyla kopyalanmış; lütfen giriş sayfasına geri dönün ve şifre alanını doldurmak için yapıştırın</string>
   <string name="qq_auto_login_failed_dialog_message">Lütfen yetkilendirme kodunu kopyalayın, daha sonra giriş sayfasına dönün ve \"Giriş için kullanıcı adını ve şifresini gir\" bölümünü tıklayın; parola alanını doldurup,giriş yapmak için yapıştırın</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Yetkilendirme kodunu kopyala</string>
-  <string name="retry_login">lütfen tekrar oturum açın</string>  
+  <string name="retry_login">lütfen tekrar oturum açın</string>
+  <string name="debug_mode_preferencecategory">lütfen GÜNLÜK çıkış modunu ayarlayın</string>
+  <string name="debug_mode_settings">HATA AYIKLAMA modu</string>
+  <string name="file_save_term">Dosya kayıt süresi</string>
+  <string name="forever">Sonsuza dek</string>
+  <string name="log_save_path">GÜNLÜK kaydetme yolu</string>
+  <string name="one_day">Bir gün</string>
+  <string name="one_month">Bir ay</string>
+  <string name="one_week">Bir hafta</string>
+  <string name="output_all_log">Tüm GÜNLÜK Çıktısı</string>
+  <string name="output_db_summary">Bu veritabanınızın çıktısı</string>
+  <string name="output_db_title">Veritabanı çıktısı</string>
+  <string name="output_to_disk">Günlük çıktı dosyası</string>
+  <string name="request_copy_db_to_disk">E-posta isteği veritabanınızı dosyaya kopyalayın</string>
+  <string name="three_day">Üç gün</string>
+  <string name="see_more_content">Daha fazla göster</string>  
 </resources>
