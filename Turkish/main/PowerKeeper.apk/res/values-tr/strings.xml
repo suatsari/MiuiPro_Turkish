@@ -30,7 +30,7 @@
   <string name="extreme_power_config_mode_category">Aşırı mod</string>
   <string name="extreme_power_config_mode_desc">Senkronizasyon, Bluetooth, GPS, NFC, çift tıklama, düğme ışıkları, bildirimler için uyanma, kilit ekranı yanı sıra bildirim ışıklarını kapatmak için aşırı moduna geçin. MIUI pil tasarrufuna odaklanacak.</string>
   <string name="extreme_power_config_mode_title">Aşırı mod</string>
-  <string name="failure">Başarısız</string>
+  <string name="failure">Hata</string>
   <string name="hide_mode_desc">Uygulama arkaplanda çalıştığında, aktiviteler pil kullanım ne şekilde etkileyecek diye izlenecek.</string>
   <string name="hide_system_app">Sistem uygulamalarını gizle</string>
   <string name="hints_loading_text">Biraz bekleyin...</string>
@@ -74,12 +74,12 @@
   <string name="vip_feedback_enable">Otomatik Vip Geribildirim etkin</string>
   <string name="warm_configure">Sıcaklık Kontrol Yapılandırması</string>
   <string name="warm_performance_tip">Daha fazla işlem başladığında cihazınız daha sıcak olacaktır.</string>
-  <string name="enable_sleep_mode">Gece bekleme modunu iyileştirmek için uyku modunu etkinleştir</string>
-  <string name="power_consume_abnormal_night">Gece güç tüketimi anormal</string>
+  <string name="enable_sleep_mode">Geceleri pil kullanımını optimize etmek için Uyku modunu açın</string>
+  <string name="power_consume_abnormal_night">Pil gece boşaldı</string>
   <string name="sleepmode_disclaimer_agree">Kabul</string>
   <string name="sleepmode_disclaimer_cancel">İptal</string>
-  <string name="sleepmode_privacy_content">Bu özellik, sunucuya yüklenmeyecek telefon sistemi ve cihaz bilgisi verilerini kullanır</string>
-  <string name="sleepmode_privacy_link">Güvenlik ve gizlilik detayları</string>
+  <string name="sleepmode_privacy_content">Bu özellik telefonunuzun sistem ve cihaz bilgilerini kullanacaktır. Sunucularımıza yüklenmeyecek.</string>
+  <string name="sleepmode_privacy_link">Gizlilik ve güvenlik hakkında daha fazla bilgi edinin</string>
   <string name="sleepmode_privacy_title">Uyku modu</string>
   <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>  
 </resources>
