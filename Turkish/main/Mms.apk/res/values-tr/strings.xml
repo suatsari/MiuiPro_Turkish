@@ -33,6 +33,7 @@
     <string name="attach_sound">Ses</string>
     <string name="attach_subject">Konu</string>
     <string name="attach_take_photo">Fotoğraf Çek</string>
+	<string name="attach_transaction">Para transferi</string>
     <string name="attach_video">Video</string>
     <string name="audio_download_failed">Ses dosyası indirilemedi!</string>
     <string name="audio_message_expired">Sesli mesajın süresi doldu.</string>
@@ -150,7 +151,7 @@
     <string name="enter_edit_mode">Mesajları Düzenle</string>
     <string name="error_code_label">Hata Kodu:</string>
     <string name="error_state">Tutarsız durum</string>
-    <string name="error_state_text">"Mesaj gönderimi ve alıcıların durumu tutarsız. Lütfen bir hata raporu alın ve http://go/droidanizer üzerinden bildirin "</string>
+    <string name="error_state_text">"Mesaj gönderimi ve alıcıların durumu tutarsız. Bir hata raporu alın ve http://go/droidanizer üzerinden bildirin "</string>
     <string name="error_timed_msg">Geçersiz zaman.</string>
     <string name="ex_type_mx">Mi Mesajı</string>
     <string name="ex_type_sms">SMS/MMS</string>
