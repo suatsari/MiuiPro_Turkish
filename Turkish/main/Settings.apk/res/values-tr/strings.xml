@@ -2792,7 +2792,7 @@
   <string name="phone_language">Diller</string>
   <string name="physical_device_title">%1$s - %2$s</string>
   <string name="physical_keyboard_title">Fiziksel Klavye</string>
-  <string name="pick_up_gesture_wakeup_title">Uyandırmak için harekete geçin</string>
+  <string name="pick_up_gesture_wakeup_title">Uyandırmak için kaldır</string>
   <string name="picker_activities">Aksiyon</string>
   <string name="picture_color_mode">Renkli Resim Modu</string>
   <string name="picture_color_mode_desc">sRGB kullan</string>
@@ -3648,7 +3648,7 @@
   <string name="set_data_time_range">Zaman aralığını göster</string>
   <string name="setting_privacy_password">Gizlilik Koruma Şifresini Ayarla</string>
   <string name="settings_ad_loading">Yükleniyor...</string>
-  <string name="settings_ad_loading_unavailable">Yüklenirken bir sorun oluştu.</string>
+  <string name="settings_ad_loading_unavailable">Bilgi yüklenemedi.</string>
   <string name="settings_backup">Ayarları yedekle</string>
   <string name="settings_backup_summary">Ayarlarımı yedekle</string>
   <string name="settings_button">Ayarlar</string>
@@ -4448,7 +4448,7 @@
   <string name="usb_use_power_only_desc">Bağlanan diğer cihaza güç sağlayın</string>
   <string name="use_location_summary">Google arama sonuçları ve diğer hizmetleri geliştirmek için konumunuzu kullanmasına izin verin</string>
   <string name="use_location_title">Konum &amp; Google Araması</string>
-  <string name="use_personalized_ad_service">Reklam tanımlayıcıyı kullan</string>
+  <string name="use_personalized_ad_service">Kişiselleştirilmiş reklam önerileri</string>
   <string name="use_personalized_ad_service_summary">Öneri özelliği kapatıldığında, yine aynı miktarda reklam göreceksiniz, ancak davranış verilerinize veya kişisel bilgilerinize bağlı olmayacak.</string>
   <string name="use_privacy_password_immediate">Kullan</string>
   <string name="use_system_language_to_select_input_method_subtypes">Sistem dilini kullan</string>
@@ -5346,5 +5346,18 @@
   <string name="tether_over_limit_warning_notify_message">Taşınabilir paylaşımı kapatın.</string>
   <string name="tether_over_limit_warning_notify_title">İnternet paylaşımı veri sınırına ulaşıldı</string>
   <string name="traffic_none">Yok</string>
-  <string name="lockscreen_magazine_summary">Yüksek kaliteli kilit ekranı duvar kağıdı</string>  
+  <string name="lockscreen_magazine_summary">Yüksek kaliteli kilit ekranı duvar kağıdı</string> 
+  <string name="defalut_launcher_title">Varsayılan Ana ekran</string>
+  <string name="default_launcher_title">Varsayılan Başlatıcı</string>
+  <string name="miui_userguide">Kullanici rehberi</string>
+  <string name="oldman_app_label">Lite mod</string>
+  <string name="oldman_installed_current_btn">Orijinal Ana ekranı geri yükle</string>
+  <string name="oldman_installed_current_des">Lite modu varsayılan Ana ekranınız olarak ayarladınız. Orijinal Ana ekrana geri dönmek için aşağıdaki düğmeye dokunun.</string>
+  <string name="oldman_installed_not_current_btn">Varsayılan Ana ekran olarak ayarla</string>
+  <string name="oldman_installed_not_current_des">Lite modu cihazınıza yüklenir. Bunu varsayılan Giriş ekranı olarak kullanabilirsiniz.</string>
+  <string name="oldman_mode_entry_name">Lite mod</string>
+  <string name="oldman_uninstalled_btn">Yükleme</string>
+  <string name="oldman_uninstalled_des">Lite mod görsel karmaşadan kurtarır, Ana ekranınızı basit ve minimalist tutar.</string>
+  <string name="select_logd_level">Günlük seviyesini seç</string>
+  <string name="voice_assist">Mi AI</string>  
 </resources>
