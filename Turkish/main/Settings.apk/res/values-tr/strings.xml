@@ -209,7 +209,7 @@
   <string name="android_beam_tips">İki cihazın birbirine dokunduğundan emin olun ve sonra göndermek istediğiniz içeriği seçin.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animation_framing_title">Çerçeve frekansı</string>
-  <string name="animator_duration_scale_title">Animatör Süre Sayacı</string>
+  <string name="animator_duration_scale_title">Animasyon hızı</string>
   <string name="another_migration_already_in_progress">Başka bir göç zaten sürüyor.</string>
   <string name="anti_spam">Engelli Listesi</string>
   <string name="aod_mode_summary">Ekran kapalıyken daima saati, tarihi ve mesajları göster.</string>
@@ -1982,8 +1982,8 @@
   <string name="line_breaking_title">Metini iyi hale getir</string>
   <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Bağlantı hızı:</string>
-  <string name="listview_animation_title">Liste animasyonu</string>
-  <string name="listview_interpolator_title">Animasyon aradeğeri</string>
+  <string name="listview_animation_title">Animasyon stili</string>
+  <string name="listview_interpolator_title">Animasyon hızı</string>
   <string name="loading_notification_apps">Uygulamalar yükleniyor...</string>
   <string name="local_auto_backup_off">Kapat</string>
   <string name="local_auto_backup_on">Açık</string>
@@ -4117,7 +4117,7 @@
   <string name="system_alert_window_settings">Diğer Uygulamaları Belirt</string>
   <string name="system_alert_window_summary" formatted="false">%d / %d uygulamalarla diğer uygulamaları belirt</string>
   <string name="system_and_device_section_title">Sistem &amp; Cihaz</string>
-  <string name="system_animation_title">Sistem animasyonu</string>
+  <string name="system_animation_title">Liste animasyonu</string>
   <string name="system_app">(Sistem)</string>
   <string name="system_app_settings">Sistem Uygulamaları</string>
   <string name="system_apps_updater">Sistem Uygulamalarını Güncelleyici</string>
