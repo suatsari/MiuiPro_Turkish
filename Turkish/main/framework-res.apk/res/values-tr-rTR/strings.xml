@@ -896,7 +896,7 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="permdesc_getAccounts">Uygulamaya telefon tarafından bilinen hesapların listesini alma izni verir. Bu liste, yüklediğiniz uygulamalar tarafından oluşturulan tüm hesapları içerebilir.</string>
   <string name="permdesc_getPackageSize">Uygulamaya kodunu, verilerini ve önbellek boyutlarını alma izni verir</string>
   <string name="permdesc_getTasks">Uygulamaya o anda ve son çalışan görevler hakkında bilgi alma izni verir. Bu izin, uygulamanın cihaz tarafından kullanılan uygulamalar hakkında bilgi elde etmesine olanak sağlayabilir.</string>
-  <string name="permdesc_handoverStatus">Bu uygulamanın mevcut Android Beam aktarımlarıyla ilgili bilgi almasına izin verir</string>
+  <string name="permdesc_handoverStatus">Bu uygulamanın mevcut Android Işın aktarımlarıyla ilgili bilgi almasına izin verir</string>
   <string name="permdesc_install_shortcut">Uygulamaya, kullanıcı müdahalesi olmadan kısayolları Ana Ekrana ekleme izni verir.</string>
   <string name="permdesc_invokeCarrierSetup">İzin sahibine, operatör tarafından sağlanan yapılandırma uygulamasını çalıştırma izni verir. Normal uygulamalarda hiçbir zaman gerek duyulmaz.</string>
   <string name="permdesc_killBackgroundProcesses">Uygulamaya diğer uygulamalara ait arka plan işlemleri sonlandırma izni verir. Bu izin, diğer uygulamaların çalışmayı durdurmasına neden olabilir.</string>
@@ -1041,7 +1041,7 @@ izin isteğinde bulunuldu."</string>
   <string name="permlab_getAccounts">cihazdaki hesapları bulma</string>
   <string name="permlab_getPackageSize">uygulama depolama alanını ölç</string>
   <string name="permlab_getTasks">çalışan uygulamaları al</string>
-  <string name="permlab_handoverStatus">Android Beam aktarım durumunu al</string>
+  <string name="permlab_handoverStatus">Android Işın aktarım durumunu al</string>
   <string name="permlab_install_shortcut">kısayolları yükleme</string>
   <string name="permlab_invokeCarrierSetup">operatör tarafından sağlanan yapılandırma uygulamasını çalıştır</string>
   <string name="permlab_killBackgroundProcesses">diğer uygulamaları kapat</string>
