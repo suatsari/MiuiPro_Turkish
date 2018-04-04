@@ -3,6 +3,8 @@
   <string name="about_hide_mode">MIUI pil tasarrufu hakkında</string>
   <string name="app_list_title">Uygulamayı seçin</string>
   <string name="app_name">Pil ve Performans</string>
+  <string name="app_preload_policies_summary">Kullanacağınız uygulamaları önceden tahmin etmek ve kaynakları yüklemek için ML modelini kullanın, uygulama başlatma performansını iyileştirin</string>
+  <string name="app_preload_policies_title">AI Önyükleme</string>  
   <string name="base_info">Taban bilgisi</string>
   <string name="cloud_addr_info">Bulut bilgisi</string>
   <string name="cloud_china_addr">Çinli sunucu verilerini güncelleme</string>
@@ -60,6 +62,7 @@
   <string name="power_hide_mode_title">Uygulamaların pil kullanımını yönetin</string>
   <string name="power_mode">Güç ayarları</string>
   <string name="power_usage">Güç kullanımı</string>
+  <string name="pref_config_title">Performans Optimizasyonu</string>
   <string name="scenario_policies_summary">Senaryoya göre enerji tasarrufu</string>
   <string name="scenario_policies_title">Senaryo güç tasarrufu politikaları</string>
   <string name="scenario_policies_warmcontrol">Sıcaklık Kontrolu</string>
