@@ -101,4 +101,6 @@
   <string name="transfer_interrupt">Aktarım kesildi</string>
   <string name="transmission_click_send">Gönder</string>
   <string name="transmission_connect">"Alıcı bulunamadı mı?"</string>
+  <string name="HIPS_Perm_SystemAlert">Açılır pencereyi görüntüle</string>
+  <string name="HIPS_Perm_show_when_locked">Kilit ekranında göster</string>  
 </resources>
