@@ -375,4 +375,8 @@
   <string name="reset_password_dialog_positve_btn_title">Değiştir</string>
   <string name="reset_password_dialog_title">İkinci alan kısayolunu gizleyemiyorum</string>
   <string name="xspace_install_completed_global">Simge çekmeceye eklendi</string> 
+  <string name="remove_button">Kaldır ve yeniden başlat</string>
+  <string name="remove_button_time">Kaldır ve yeniden başlat(%ds)</string>
+  <string name="stop_xspace_alert_content">Tüm klonlu uygulamaları sildiniz. Klonlu uygulama hesapları ve uygulama verileri de silinsin mi? Bundan sonra, ihtiyacınız olduğunda tekrar klonlu uygulamalar oluşturmanız gerekecek.</string>
+  <string name="stop_xspace_alert_title">Klonlu uygulama hesaplarını silme</string>  
 </resources>
