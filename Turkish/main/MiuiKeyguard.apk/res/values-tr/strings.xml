@@ -18,7 +18,7 @@
   <string name="face_data_input_cancel_msg">Yüz verisi eklenemedi</string>
   <string name="face_data_input_msg">Yüzünü çerçevenin içine yerleştirin</string>
   <string name="face_data_input_ok">Bitti</string>
-  <string name="face_data_input_ok_msg">Yüz verilerinizi kullanarak cihazı kilidini açmak için ekranı açın.</string>
+  <string name="face_data_input_ok_msg">Yüz verilerinizi kullanarak cihazın kilidini açmak için ekranı açın.</string>
   <string name="face_data_input_ok_msg_angle">Ekran aydınlanınca cihazı yüzünüzle açın.\n(Gereken tüm açıları içeren yüz verilerinizi kaydedin.)​</string>
   <string name="face_data_input_ok_title">Başarıyla eklendi</string>
   <string name="face_data_input_title">Yüz verisi ekle</string>
@@ -29,8 +29,8 @@
   <string name="face_data_manage_delete_msg">Yüz verilerini sil</string>
   <string name="face_data_manage_delete_sure">Sildikten sonra yüz verilerinizi kullanarak cihazın kilidini açmanız mümkün olmayacaktır.</string>
   <string name="face_data_manage_delete_title">Yüz verileri</string>
-  <string name="face_data_manage_unlock_msg">Yüz verilerinizi kullanarak cihazı açma</string>
-  <string name="face_data_manage_unlock_title">Yüz verilerini kullanarak kilidini aç</string>
+  <string name="face_data_manage_unlock_msg">Yüz verilerinizi kullanarak cihazın kilidini açma</string>
+  <string name="face_data_manage_unlock_title">Yüz verilerinizi kullanarak kilidini aç</string>
   <string name="face_data_siggesstion_next">Sonraki</string>
   <string name="face_data_siggesstion_next_time">Sonraki(%ds)</string>
   <string name="face_data_suggesstion_first">Güvenlik sorunları: Yüz kilidi bir PIN, şifre veya desenden daha az güvenlidir. Cihazınızın kilidi, fotoğrafınızla, benzer kişiler veya benzer görünümlü nesneler ile açılabilir.</string>
