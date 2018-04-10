@@ -5385,4 +5385,6 @@
   <string name="input_hint_prefix">%1$s girin</string>
   <string name="mi_pay">Mi Cüzdan</string>
   <string name="mi_pay_summary">Otobüs kartı/Mi Ödeme/Kart Emülatörü</string>  
+  <string name="miui_touch_filtered_warning">Bir uygulama izin iletişim kutusunu engelliyorsa, engelleyen öğeyi uzaklaştırın veya uygulamayı kapatın.</string>
+  <string name="wireless_connected">Bağlı</string>  
 </resources>
