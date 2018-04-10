@@ -1218,5 +1218,23 @@
   <string name="webpage_title">Favoriler &amp; Geçmiş</string>
   <string name="comment_max_length">Üzgünüm, giriş kutusu dolu.</string>
   <string name="comment_num_description">Yorum numarası</string>
-  <string name="favorite">Favori</string>  
+  <string name="favorite">Favori</string>
+  <string name="cast_video">Videoyu yayınla</string>
+  <string name="collect_video">Videoyu derle</string>
+  <string name="download_video">Videoyu indir</string>
+  <string name="exit_fullscreen">Tam ekrandan çık</string>
+  <string name="mw_notification_category_browser">Tarayıcı</string>
+  <string name="mw_notification_category_content_suggestions">İçerik Önerileri</string>
+  <string name="mw_notification_category_downloads">İndirilenler</string>
+  <string name="mw_notification_category_fullscreen_controls">Tam ekran site kontrolleri</string>
+  <string name="mw_notification_category_group_general">Genel</string>
+  <string name="mw_notification_category_incognito">Gizli</string>
+  <string name="mw_notification_category_media">Medya</string>
+  <string name="mw_notification_category_screen_capture">Ekran görüntüsü</string>
+  <string name="mw_notification_category_sites">Siteler</string>
+  <string name="mw_notification_hidden_text">İçerik gizlendi</string>
+  <string name="play_pause_video">Videoyu oynat veya duraklat</string>
+  <string name="play_video">Videoyu oynat</string>
+  <string name="popup_video">Yüzen video</string>
+  <string name="share_video">Videoyu paylaş</string>  
 </resources>
