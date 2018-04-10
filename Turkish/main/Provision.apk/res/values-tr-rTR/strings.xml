@@ -43,7 +43,7 @@
   <string name="next_fingerprint">Sonraki</string>
   <string name="other_settings">Ek Ayarlar</string>
   <string name="other_settings_ad_enable">Kişiselleştirilmiş Reklam Önerisi</string>
-  <string name="other_settings_ad_enable_summary">Kişiselleştirilmiş reklamlar davranış verilerinize göre önerilir</string>
+  <string name="other_settings_ad_enable_summary">Davranış verilerinize göre kişiselleştirilmiş reklamlar önerilir</string>
   <string name="other_settings_auto_update">Otomatik güncelle</string>
   <string name="other_settings_auto_update_summary">MIUI güncellemeleri yüklemek için en müsait zamanı seçecektir.</string>
   <string name="other_settings_location">Konum</string>
