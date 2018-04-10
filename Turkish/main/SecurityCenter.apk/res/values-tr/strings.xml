@@ -766,7 +766,7 @@ bir şifre kullanın"</string>
   <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük destek</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük destek</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
-  <string name="gdpr_msg">"\"Güvenliğin temel özelliklerini kullanmak için, Xiaomi'nin güvenliğin özelliklerini kullanmanın yollarıyla ilgili bilgiler de dahil olmak üzere kişisel verilerinizi toplamasını, işlemesini ve kullanmasını (Örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılım hakkında bilgi ve cihazınızla ilgili temel bilgiler) ve belirtilen diğer bilgi türlerini kabul etmelisiniz. Lütfen "<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik Politikası</a> okuyun.\"</string>
+  <string name="gdpr_msg"><Data>"Güvenliğin temel özelliklerini kullanmak için, Xiaomi'nin güvenliğin özelliklerini kullanmanın yollarıyla ilgili bilgiler de dahil olmak üzere kişisel verilerinizi toplamasını, işlemesini ve kullanmasını (Örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılım hakkında bilgi ve cihazınızla ilgili temel bilgiler) ve belirtilen diğer bilgi türlerini kabul etmelisiniz. Lütfen &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Gizlilik Politikası&lt;/a> okuyun."</Data></string>
   <string name="ge">个</string>
   <string name="get_sys_info">Bilgi alınıyor…</string>
   <string name="give_lucky_money">红包大派送</string>
