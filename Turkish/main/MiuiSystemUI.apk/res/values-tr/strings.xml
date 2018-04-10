@@ -794,7 +794,7 @@
   <string name="window_animation_scale_title">Pencere Animasyon Ölçeği</string>
   <string name="no_sim_card">SIM kart yok</string>
   <string name="notch_status_bar_date_format_12">d MMMM, EEEE</string>
-  <string name="prompt_danger">Risk</string>
+  <string name="prompt_danger">Tehlike</string>
   <string name="prompt_detecting">Algılama</string>
   <string name="prompt_failure">Hata</string>
   <string name="prompt_return_to_split">Ekran bölme</string>
