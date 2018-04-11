@@ -1549,4 +1549,6 @@
   <string name="window_animation_scale_title">Pencere animasyon ölçeği</string>
   <string name="wrong_password">Girdiğiniz şifre yanlış</string>
   <string name="msim_cmcc_dds_switch_not_support">Operatör kısıtlamaları nedeniyle SIM kart değiştiremezsiniz.</string>
+  <string name="vice_card_data_in_use_alert">Ek veri ücretleri oluşturulabilir.</string>
+  <string name="volte_switch_title_ct">VoLTE etkin</string>  
 </resources>
