@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name=" hide_error_from_network_text">İstek işlenemiyor</string>
+  <string name="hide_error_from_network_text">İstek işlenemiyor</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Bu özellik deneysel ve performansı etkileyebilir.</string>
   <string name="accessibility_display_daltonizer_preference_title">Renk düzeltmesi</string>
   <string name="accessibility_no_wifi">Wifi bağlantısı kesildi.</string>
