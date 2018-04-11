@@ -2271,5 +2271,12 @@ bir şifre kullanın"</string>
   <string name="exit_dialog_release_storage_title">Boş alan</string>
   <string name="exit_dialog_scan_message">Cihazınızın performans puanı 75 puandan düşük. Şimdi optimize et?</string>
   <string name="exit_dialog_scan_positive_button">Optimize</string>
-  <string name="exit_dialog_scan_title">Performansı optimize et</string>  
+  <string name="exit_dialog_scan_title">Performansı optimize et</string>
+  <string name="exit_dialog_homepage_optimise_message">Cihazınızın performans puanı 80 puandan düşük. Şimdi optimize edilsin mi?</string>
+  <string name="gb_msg_completely_shielded">Mesajları gizle</string>
+  <string name="gb_msg_completely_shielded_summary">Gizle</string>
+  <string name="gb_msg_quickly_answer">Hızlı yanıtlara izin ver</string>
+  <string name="gb_msg_quickly_answer_summary">Hızlı cevap</string>
+  <string name="gb_msg_transparent_dispaly">Arka planı şeffaf bildirimler</string>
+  <string name="gb_msg_transparent_dispaly_summary">Şeffaf</string>  
 </resources>
