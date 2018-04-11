@@ -1369,7 +1369,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="stk_cc_ussd_to_dial">USSD isteği DIAL isteği olarak değiştirildi.</string>
   <string name="stk_cc_ussd_to_ss">USSD isteği SS isteği olarak değiştirildi.</string>
   <string name="stk_cc_ussd_to_ussd">USSD isteği yeni USSD isteği olarak değiştirildi.</string>
-  <string name="storage_internal">Paylaşılan Dahili Depolama</string>
+  <string name="storage_internal">Dahili Depolama</string>
   <string name="storage_phone">Dahili Depolama</string>
   <string name="storage_sd_card">SD Kart</string>
   <string name="storage_sd_card_label">%s SD Kartı</string>
