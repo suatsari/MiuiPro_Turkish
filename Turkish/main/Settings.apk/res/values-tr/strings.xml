@@ -5386,5 +5386,11 @@
   <string name="mi_pay">Mi Cüzdan</string>
   <string name="mi_pay_summary">Otobüs kartı/Mi Ödeme/Kart Emülatörü</string>  
   <string name="miui_touch_filtered_warning">Bir uygulama izin iletişim kutusunu engelliyorsa, engelleyen öğeyi uzaklaştırın veya uygulamayı kapatın.</string>
-  <string name="wireless_connected">Bağlı</string>  
+  <string name="wireless_connected">Bağlı</string>
+  <string name="confirm_frp_credential_message">Cihaz fabrika ayarlarına sıfırlandı, önceki gizlilik ile kilidini açabilirsiniz.</string>
+  <string name="confirm_frp_credential_skip_txt">BUNUN YERİNE GOOGLE HESABIMI KULLAN</string>
+  <string name="confirm_frp_credential_title">Fabrika Sıfırlama Koruması</string>
+  <string name="wifi_tether_enabled_summary">%1$s aktif</string>
+  <string name="accessibility_wifi_security_type_none">Açık ağ</string>
+  <string name="accessibility_wifi_security_type_secured">Güvenli ağ</string>  
 </resources>
