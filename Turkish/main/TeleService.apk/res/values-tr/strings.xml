@@ -1144,7 +1144,7 @@
   <string name="prompt_to_turnoff_volte_when_failed">VoLTE servisleri mevcut değil. Çağrı yapmak için VoLTE\'yi kapatın.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">Servis mevcut değil. Ayarlardan VoLTE\'yi kapatın.</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">VoLTE\'yi açmadan önce tercih ettiğiniz ağ türü olarak LTE seçin.</string>
-  <string name="prompt_when_turnon_volte_without_lte">LTE ağları şu anda kullanılamıyor. VoLTE\'yi açmak normal arama yapmanızı engelleyebilir.</string>
+  <string name="prompt_when_turnon_volte_without_lte">VoLTE ağları şu anda kullanılamıyor. VoLTE\'yi açmak normal arama yapmanızı engelleyebilir.</string>
   <string name="proximity_mode_title">Yakınlık sensörünü aç</string>
   <string name="proximity_off_summary">Bir aramayı cevapladığınızda, ekran her zaman açık olacaktır.</string>
   <string name="proximity_on_summary">Bir aramayı cevapladığınızda, güç tasarrufu için ekran kapanacaktır.</string>
@@ -1350,6 +1350,7 @@
   <string name="sum_select_automatically">Tercih edilen ağı otomatik olarak seçer</string>
   <string name="sum_show_caller_id">Giden çağrılarda numarayı görüntüle</string>
   <string name="sum_voicemail_choose_provider">Sesli mesaj numarasını seç</string>
+  <string name="switch_dds_to_sub_alert">Bu kartı varsayılan veri kartınız olarak ayarlayın.</string>
   <string name="t9_indexing_method_pinyin">Alfabetik</string>
   <string name="t9_indexing_method_title">T9 Arama Girişi</string>
   <string name="t9_indexing_method_zhuyin">Fonetik Gösterim</string>
@@ -1519,7 +1520,7 @@
   <string name="volte_switch_summary">Sesli ve görüntülü görüşme kalitesini artırmak için VoLTE kullanın</string>
   <string name="volte_switch_summary2">Operatörün açılmadan önce bu özelliği desteklediğini onaylayın.. Aksi takdirde, normal çağrılar etkilenebilir.</string>
   <string name="volte_switch_title">VoLTE etkin</string>
-  <string name="volte_tips_when_turn_on">Çin Telekom VoLTE hizmetleri sadece LTE şebeke kapsama alanı olan alanlarda sağlanmaktadır.</string>
+  <string name="volte_tips_when_turn_on">Çin Telecom VoLTE servisleri sadece VoLTE şebeke kapsama alanı olan alanlarda sağlanmaktadır. VoLTE hizmetleri operatör tarafından sağlanmaktadır.</string>
   <string name="vpn_settings_not_available">Bu kullanıcı için VPN ayarları mevcut değil</string>
   <string name="vvm_unsupported_message_format">Desteklenmeyen mesaj türü, dinlemek için %s arayın.</string>
   <string name="wait_for_debugger">Hata ayıklayıcısını bekle</string>
