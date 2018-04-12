@@ -155,4 +155,7 @@
   <string name="wireless_current_charge">Mevcut şarj</string>
   <string name="wrong_password">Yanlış şifre</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Greenguard aktif olduğunda alanlar arasında geçiş yapılamaz</string>
+  <string name="gxzw_press_harder">Lütfen daha sert basın</string>
+  <string name="gxzw_try_more_again">Daha fazla deneyin</string>
+  <string name="gxzw_use_password">Lütfen şifre kullanın</string> 
 </resources>
