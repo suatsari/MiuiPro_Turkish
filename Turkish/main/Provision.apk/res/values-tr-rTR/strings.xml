@@ -81,4 +81,5 @@ MIUI\'yi kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politik
   <string name="voice_assist_desp">Telefonunuza \"Mi AI\" deyin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebilecek.</string>
   <string name="voice_assist_title">Sesle uyanın</string>
   <string name="welcome">Hoşgeldiniz!</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Mobil veri ağlarına bağlanmaya izin verilsin mi? Bunu yaparsanız, taktığınız SIM kart mobil veri ağlarına bağlanmak için kullanılır.</string>
 </resources>
