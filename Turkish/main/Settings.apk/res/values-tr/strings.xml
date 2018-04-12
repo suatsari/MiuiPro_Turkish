@@ -5392,5 +5392,18 @@
   <string name="confirm_frp_credential_title">Fabrika Sıfırlama Koruması</string>
   <string name="wifi_tether_enabled_summary">%1$s aktif</string>
   <string name="accessibility_wifi_security_type_none">Açık ağ</string>
-  <string name="accessibility_wifi_security_type_secured">Güvenli ağ</string>  
+  <string name="accessibility_wifi_security_type_secured">Güvenli ağ</string> 
+  <string name="gxzw_add_fingerprint_continue">Devam et</string>
+  <string name="gxzw_add_fingerprint_edge_message">Parmağınızı hareket ettirerek sensörün parmak izinizin kenarlarını kaydedebilmesini sağlayın.</string>
+  <string name="gxzw_add_fingerprint_edge_title">Parmağınızı biraz hareket ettirin</string>
+  <string name="gxzw_add_fingerprint_finish">Bitti</string>
+  <string name="gxzw_add_fingerprint_indicate">Burada daha sert basın</string>
+  <string name="gxzw_add_fingerprint_know">Anladım</string>
+  <string name="gxzw_add_fingerprint_message">Parmaklarınızı ve ekran yüzeyini temiz tutun</string>
+  <string name="gxzw_add_fingerprint_move_indicate">Parmağınızı biraz hareket ettirin</string>
+  <string name="gxzw_add_fingerprint_move_message">Çok fazla parmak tekrarlama alanı, lütfen parmağınızı biraz hareket ettirin</string>
+  <string name="gxzw_add_fingerprint_move_title">Parmağınızı biraz hareket ettirin</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Daha sert basın, titreşimden sonra kaldırın ve birkaç kez tekrarlayın</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Daha sert basın, titreşimden sonra kaldırın</string>
+  <string name="gxzw_add_fingerprint_title">Parmak izi ekle</string>  
 </resources>
