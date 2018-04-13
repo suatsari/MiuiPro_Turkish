@@ -5406,4 +5406,5 @@
   <string name="gxzw_add_fingerprint_put_finger_message">Daha sert basın, titreşimden sonra kaldırın ve birkaç kez tekrarlayın</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Daha sert basın, titreşimden sonra kaldırın</string>
   <string name="gxzw_add_fingerprint_title">Parmak izi ekle</string>  
+  <string name="add_fingerprint_cancel_button_text">Geri</string>
 </resources>
