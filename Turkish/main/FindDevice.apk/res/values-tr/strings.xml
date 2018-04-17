@@ -27,8 +27,7 @@ Lütfen satış temsilcinize başvurun."</string>
   <string name="find_device_noise_title">Telefonu Bul Alarmı</string>
   <string name="find_device_notice_p1">Git</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">"Tespit et, kilitle veya telefonu geri yükle.
-SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için otomatik olarak gönderilecektir."</string>
+  <string name="find_device_notice_p3">Cihazınızı bulmak, kilitlemek veya geri yüklemek için.</string>
   <string name="find_device_notice_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak başka bir SMS gönderilebilir.</string>
   <string name="find_device_stop_noise">Sessiz için Tamam\'a dokunun</string>
   <string name="find_device_storage_corrupted">Telefonu Bul depolaması bozuk. Cihazınız artık güvenli değil.</string>
@@ -70,7 +69,7 @@ SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için ot
   <string name="unlock_error_user_name">Geçersiz kullanıcı adı</string>
   <string name="unlock_error_wrong_vcode">Girmiş olduğunuz kod hatalı</string>
   <string name="unlock_help">"Ağa bağlı kalın
-Çalışan bir SIM kart yüklediyseniz ve cihazınız etkisiz bir WLAN ağına bağlı olmadığından emin olun
+Çalışan bir SIM kart taktığınızdan(cihazınız bunu destekliyorsa), ve cihazınız etkisiz bir WLAN ağına bağlı olmadığından emin olun
 
 Şifreyi unuttunuz mu?
 Şifrenizi sıfırlamak için id.mi.com adresine gidin
