@@ -5407,4 +5407,12 @@
   <string name="gxzw_add_fingerprint_put_finger_title">Daha sert basın, titreşimden sonra kaldırın</string>
   <string name="gxzw_add_fingerprint_title">Parmak izi ekle</string>  
   <string name="add_fingerprint_cancel_button_text">Geri</string>
+  <string name="choose_a_card_to_reset">Sıfırlamak için SIM kartı seçin</string>
+  <string name="reset_network_bluetooth">Bluetooth</string>
+  <string name="reset_network_category">Bu, bunlar dahil tüm ağ ayarlarını sıfırlar:</string>
+  <string name="reset_network_data">Mobil veri</string>
+  <string name="reset_network_wifi">WLAN</string>
+  <string name="accessibility_close_tab">Mevcut sekmeyi kapat</string>
+  <string name="accessibility_more_settings">ek ayarlar</string>
+  <string name="wifi_hide_password">Şifreyi gizle</string>  
 </resources>
