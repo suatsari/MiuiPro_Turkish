@@ -660,7 +660,7 @@ bir şifre kullanın"</string>
   <string name="domestic_roaming_setting">Ulusal dolaşım</string>
   <string name="dont_bore">Düğmelerin ve bildirimlerin sizi rahatsız etmesine izin verme</string>
   <string name="dont_bore_text">Dikkat dağıtımlarını önlemek için bildirimleri susturun ve düğmeleri kapatın</string>
-  <string name="dont_bore_title">DND modu</string>
+  <string name="dont_bore_title">Rahatsız etme modu</string>
   <string name="download">İndir</string>
   <string name="downloading">İndiriliyor...</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -788,7 +788,7 @@ bir şifre kullanın"</string>
   <string name="gs_dialog_confirm_close_msg">Kısayol Ana ekranınızdan kaldırılacaktır. Geri yüklemek için Güvenlik&gt; Ayarlar\'a gidin.</string>
   <string name="gs_dialog_confirm_close_title">Kapat</string>
   <string name="gs_forbid_autosync">Arka plan senkronizasyonunu sınırla</string>
-  <string name="gs_game_disturb_msg">DND</string>
+  <string name="gs_game_disturb_msg">Rahatsız etme</string>
   <string name="gs_game_duration">Zaman</string>
   <string name="gs_game_net_priority">Bağlantı önceliği</string>
   <string name="gs_game_net_priority_detail">Oyun oynarken yeterli bant genişliği sağlamak için indirme hızını sınırlayın</string>
