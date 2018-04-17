@@ -159,6 +159,7 @@
   <string name="default_cache_type">Veri Dosyaları</string>
   <string name="delete_confirm">Sil</string>
   <string name="delete_confirm_msg">Seçilen tüm dosyalar kalıcı olarak silinsin mi?</string>
+  <string name="desc_image">görüntü</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Ayrıca Mi Bulut fotoğrafları sil</string>
   <string name="dialog_content_select_all_confirm">Bu fotoğrafın bir kopyası saklansın mı?</string>
   <string name="dialog_msg_add_white_list_error">Dosya istisnalara eklenemedi</string>
