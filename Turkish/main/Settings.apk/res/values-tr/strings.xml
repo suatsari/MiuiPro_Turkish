@@ -5387,9 +5387,9 @@
   <string name="mi_pay_summary">Otobüs kartı/Mi Ödeme/Kart Emülatörü</string>  
   <string name="miui_touch_filtered_warning">Bir uygulama izin iletişim kutusunu engelliyorsa, engelleyen öğeyi uzaklaştırın veya uygulamayı kapatın.</string>
   <string name="wireless_connected">Bağlı</string>
-  <string name="confirm_frp_credential_message">Cihaz fabrika ayarlarına sıfırlandı, önceki gizlilik ile kilidini açabilirsiniz.</string>
-  <string name="confirm_frp_credential_skip_txt">BUNUN YERİNE GOOGLE HESABIMI KULLAN</string>
-  <string name="confirm_frp_credential_title">Fabrika Sıfırlama Koruması</string>
+  <string name="confirm_frp_credential_message">Cihaz fabrika ayarlarına sıfırlandı, önceki şifrenizi kullanarak kilidini açabilirsiniz.</string>
+  <string name="confirm_frp_credential_skip_txt">Bunun yerine Google hesabını kullan</string>
+  <string name="confirm_frp_credential_title">Fabrika sıfırlandıktan sonra kilidini aç</string>
   <string name="wifi_tether_enabled_summary">%1$s aktif</string>
   <string name="accessibility_wifi_security_type_none">Açık ağ</string>
   <string name="accessibility_wifi_security_type_secured">Güvenli ağ</string> 
@@ -5401,10 +5401,10 @@
   <string name="gxzw_add_fingerprint_know">Anladım</string>
   <string name="gxzw_add_fingerprint_message">Parmaklarınızı ve ekran yüzeyini temiz tutun</string>
   <string name="gxzw_add_fingerprint_move_indicate">Parmağınızı biraz hareket ettirin</string>
-  <string name="gxzw_add_fingerprint_move_message">Çok fazla parmak tekrarlama alanı, lütfen parmağınızı biraz hareket ettirin</string>
+  <string name="gxzw_add_fingerprint_move_message">Parmak izinizin kalan alanlarını kaydedemiyorum. Parmağınızı biraz hareket ettirin</string>
   <string name="gxzw_add_fingerprint_move_title">Parmağınızı biraz hareket ettirin</string>
-  <string name="gxzw_add_fingerprint_put_finger_message">Daha sert basın, titreşimden sonra kaldırın ve birkaç kez tekrarlayın</string>
-  <string name="gxzw_add_fingerprint_put_finger_title">Daha sert basın, titreşimden sonra kaldırın</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Biraz daha sert basın ve titreşim hissettikten sonra parmağınızı kaldırın. Birkaç kez tekrarlayın.</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Daha sert basın ve titreşimden sonra kaldırın</string>
   <string name="gxzw_add_fingerprint_title">Parmak izi ekle</string>  
   <string name="add_fingerprint_cancel_button_text">Geri</string>
   <string name="choose_a_card_to_reset">Sıfırlamak için SIM kartı seçin</string>
