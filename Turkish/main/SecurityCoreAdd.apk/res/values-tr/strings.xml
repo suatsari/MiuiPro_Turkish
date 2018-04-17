@@ -128,6 +128,7 @@
   <string name="lock_screen_open_second_space">Kilit Ekranından İkinci Alana gir</string>
   <string name="messageData">Mesajlar</string>
   <string name="msg_switch_file">Dosyalar taşındıktan sonra İlk Alandan silinsin mi?</string>
+  <string name="msg_switch_file_second">Dosyalar taşındıktan sonra İkinci Alandan silinsin mi?</string>
   <string name="msg_switch_photo">Taşındıktan sonra İlk Alandaki fotoğraflar silinsin mi?</string>
   <string name="need_network_when_create">Çalışma alanını oluşturmadan önce ağa bağlanın</string>
   <string name="need_reset_passwd">Çalışma alanına girmeden önce Çalışma alanı şifresini sıfırlayın</string>
