@@ -262,6 +262,7 @@
   <string name="micloud_find_device_opened_content">" %s telefonunuzu bulun"</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
+  <string name="micloud_find_device_sms_alert">Bu servisi etkinleştirmek SMS mesajı gönderilmesi gerekir. Bu mesaj için operatörünüz sizi ücretlendirebilir. SIM kartınızı değiştirdiğinizde, bu özelliği yeniden etkinleştirmek için otomatik olarak bir mesaj daha gönderilebilir.</string> 
   <string name="micloud_find_device_verify_button">Cihazı Bul\'u tekrar etkinleştir</string>
   <string name="micloud_find_device_verify_close">Cihazı Bul özelliğini kapat</string>
   <string name="micloud_find_device_verify_fail">Cihazı Bul yeniden etkinleştirilemiyor</string>
@@ -300,6 +301,7 @@
   <string name="micloud_main_query_error_message">Eşitlenmenin biteceği garanti edilemez</string>
   <string name="micloud_main_query_error_title">Eşitlenme durumu alınamıyor</string>
   <string name="micloud_main_resume_sync_soon">Yakında eşitleme devam</string>
+  <string name="micloud_main_see_unsynced_data">Senkronize edilecek verileri kontrol et</string>
   <string name="micloud_main_set_internet">Ağ Ayarları</string>
   <string name="micloud_main_space_full">Bulut depolaması doldu</string>
   <string name="micloud_main_space_full_message">Mi Bulut\'ta daha fazla depolama alanı satın alın</string>
@@ -572,5 +574,5 @@
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler tek bir yerde</string>
   <string name="user_agreement_content">Bu hizmeti kullanarak %s kabul ediyorsunuz.</string>
-  <string name="user_agreement_link">Mi Bulut Hizmet Şartları</string>  
+  <string name="user_agreement_link">Mi Bulut Hizmet Şartları</string> 
 </resources>
