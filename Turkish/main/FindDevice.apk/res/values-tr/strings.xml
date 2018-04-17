@@ -29,6 +29,7 @@ Lütfen satış temsilcinize başvurun."</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"Tespit et, kilitle veya telefonu geri yükle.
 SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için otomatik olarak gönderilecektir."</string>
+  <string name="find_device_notice_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak başka bir SMS gönderilebilir.</string>
   <string name="find_device_stop_noise">Sessiz için Tamam\'a dokunun</string>
   <string name="find_device_storage_corrupted">Telefonu Bul depolaması bozuk. Cihazınız artık güvenli değil.</string>
   <string name="find_device_success_title">Telefonu Bul</string>
