@@ -996,6 +996,7 @@ bir şifre kullanın"</string>
   <string name="main_toolbar_purchase">Kontör</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Otomatik başlatma uygulamalarını el ile ekle</string>
+  <string name="managed_user_title">Tüm çalışan uygulamalar</string>
   <string name="manual_input_free_traffic">En üst Mobil Veri Ayarı</string>
   <string name="manual_input_traffic">Veri Kullanımını Ayarla</string>
   <string name="manual_item_white_list_summary">Seçilen uygulamaların en iyi hale getirilmesi önlenir.</string>
