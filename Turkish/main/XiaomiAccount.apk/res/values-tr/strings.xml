@@ -113,7 +113,7 @@
   <string name="cta_declaration_agree_and_continue">Kabul</string>
   <string name="cta_declaration_exit">Çık</string>
   <string name="cta_declaration_ignore">Yoksay</string>
-  <string name="cta_declaration_message">"Mi Hesabına oturum açmak için internete bağlanın ve konum ile Mi Bulut özelliğini açın. Kişisel verilerinizi, uygulamanın ihtiyacı olan rehberi, SMS ve MMS mesajları, çağrı geçmişini, kayıtları yedekleyebilirsiniz. Tüm bu işlemleri asla üçüncü partik şahıslarla paylaşmayız. Hesap açıldıktan sonra Mi VIP ve Hizmet numarası internete bağlanacak."</string>
+  <string name="cta_declaration_message">"Mi Hesabına oturum açmak için internete bağlanın ve konum ile Mi Bulut özelliğini açın. Kişisel verilerinizi, uygulamanın ihtiyacı olan rehberi, SMS ve MMS mesajları, çağrı geçmişini, kayıtları yedekleyebilirsiniz. Tüm bu işlemleri asla üçüncü parti kişilerle paylaşmayız. Hesap açıldıktan sonra Mi VIP ve Hizmet numarası internete bağlanacak."</string>
   <string name="cta_declaration_title">Kullanıcı Şartları</string>
   <string name="current_location_title">Geçerli konum</string>
   <string name="data_keep_in_device">Bu cihazda sakla</string>
