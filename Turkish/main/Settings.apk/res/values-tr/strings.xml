@@ -5414,5 +5414,9 @@
   <string name="reset_network_wifi">WLAN</string>
   <string name="accessibility_close_tab">Mevcut sekmeyi kapat</string>
   <string name="accessibility_more_settings">ek ayarlar</string>
-  <string name="wifi_hide_password">Şifreyi gizle</string>  
+  <string name="wifi_hide_password">Şifreyi gizle</string>
+  <string name="close_optimization_message">Bu özelliği kapattıktan sonra metin düzeni, hesaplar ve MIUI dışındaki diğer bölümler etkilenebilir.</string>
+  <string name="close_optimization_option">Kapat</string>
+  <string name="open_optimization_message">Daha pürüzsüz, daha hızlı bir kullanıcı arayüzünün keyfini çıkarmak için optimizasyonu açın.</string>
+  <string name="open_optimization_option">Aç</string>  
 </resources>
