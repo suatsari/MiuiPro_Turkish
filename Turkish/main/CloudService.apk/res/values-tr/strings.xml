@@ -411,7 +411,7 @@
   <string name="micloud_storage_expires_very_soon_title">Mi Bulut depolama yakında sona eriyor</string>
   <string name="micloud_storage_full">Bulut doldu</string>
   <string name="micloud_storage_usage" formatted="false">Kullanılan: %s / Toplam Alan: %s</string>
-  <string name="micloud_sync_alert_dialog_message">Cihazdaki fotoğrafları, şahıslar, notlar ve daha pekçok şey eşitlenir.</string>
+  <string name="micloud_sync_alert_dialog_message">Cihazdaki fotoğraflar, kişiler, notlar ve daha pekçok şey eşitlenir.</string>
   <string name="micloud_sync_alert_dialog_negative">İptal</string>
   <string name="micloud_sync_alert_dialog_positive">Tamam</string>
   <string name="micloud_sync_alert_dialog_title">Mi Bulut kullan</string>
@@ -467,7 +467,7 @@
   <string name="phone_number_required_dspt_provision">"Bu servisin; telefon numaranıza ihtiyacı var. "</string>
   <string name="photo">Fotoğraflar</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">WLAN ile bir ağa bağlandığında sadece şahsın profil resimlerini eşitle</string>
-  <string name="pref_title_sync_contacts_title">Şahısları Eşitle</string>
+  <string name="pref_title_sync_contacts_title">Kişileri Eşitle</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları sadece WLAN kullanarak eşitle</string>
   <string name="privacy_policy">"Gizlilik Politikası "</string>
   <string name="reading_status">Yükleme durumu…</string>
@@ -513,15 +513,15 @@
   <string name="sub_sync_item_sms_title_wifi_only">MMS eşitlemesini sadece WLAN kullanarak yap</string>
   <string name="success_upgraded_space">%s eklendi</string>
   <string name="sync_dspt">Eşitle</string>
-  <string name="sync_dspt_entrance_provision">"Fotoğraflarınızı, şahısları, çağrı geçmişini ve cihazdaki tüm mesajları eşitle. Herhangi bir tarayıcıdan %s eşitlenmiş öğelere erişin. "</string>
+  <string name="sync_dspt_entrance_provision">"Fotoğrafları, kişileri, çağrı geçmişini ve cihazdaki tüm mesajları eşitle. Herhangi bir tarayıcıdan %s eşitlenmiş öğelere erişin."</string>
   <string name="sync_dspt_entrance_provision_2">Fazlası</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Kullanma!</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">MIUI\'nin yerleşik uygulamalarının fotoğrafları, şahısları, notları ve daha fazlasını yedekleyebilmesi için Mi Bulut\'a ihtiyacı var. Mi Bulut ücretsiz ve kullanıma hazır halde gelir.</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">MIUI\'nin yerleşik uygulamalarının fotoğrafları, kişileri, notları ve daha fazlasını yedekleyebilmesi için Mi Bulut\'a ihtiyacı var. Mi Bulut ücretsiz ve kullanıma hazır halde gelir.</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Bulut kullan</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Neden Mi Bulut kullanmıyorsun?</string>
   <string name="sync_dspt_entrance_provision_network">Bu uygulamanın normal çalışması için internete bağlanması gerekiyor.Verileri senkronize etmek, mobil veri bağlantısı ve WLAN\'ı açmayı gerektirebilir.</string>
   <string name="sync_dspt_entrance_provision_skip">Bu adımı atla</string>
-  <string name="sync_dspt_provision">"Fotoğraflarınızı, şahısları, notları ve daha fazlasını eşitleyin, her yerden erişin "</string>
+  <string name="sync_dspt_provision">"Fotoğrafları, kişileri, notları ve daha fazlasını eşitleyin, her yerden erişin "</string>
   <string name="sync_dspt_provision_header">Eşitle</string>
   <string name="sync_dspt_provision_title">Mi Bulut</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
@@ -541,7 +541,7 @@
   <string name="sync_sub_2_intl_sms">Bu servisi etkinleştirmek için 2 giden uluslararası SMS mesajı gerekebilir. Operatörünüz sizden bu mesajlar için ücret talep edebilir.</string>
   <string name="sync_sub_2_sms">Bu servisi etkinleştirmek için 2 gönderim mesajı gerekebilir. Operatörünüz sizden bu mesajlar için ücret talep edebilir.</string>
   <string name="sync_sub_dspt">Bu servisi etkinleştirmek için bir SMS mesajının gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret talep edebilir.</string>
-  <string name="sync_sub_dspt_provision">Fotoğrafları, şahısları, müzikleri, uygulamaları ve daha fazlasını eşitle</string>
+  <string name="sync_sub_dspt_provision">Fotoğrafları, kişileri, müzikleri, uygulamaları ve daha fazlasını eşitle</string>
   <string name="sync_sub_int_dspt">Bu servisi etkinleştirmek için uluslararası bir SMS mesajının gelmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret talep edebilir.</string>
   <string name="title_back">Geri</string>
   <string name="title_reg">Mi Hesabı oluştur</string>
