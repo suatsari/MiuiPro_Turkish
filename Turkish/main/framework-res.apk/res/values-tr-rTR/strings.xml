@@ -1560,4 +1560,5 @@ Kapatmak ister misiniz?"</string>
   <string name="zen_mode_until">%1$s saate kadar</string>
   <string name="press_color_to_apply">Seçmek için renk üzerine tıklayın</string>
   <string name="auto_app_launch">Başlatmak için uygulama</string>
+  <string name="move_button_text">Düğme</string>
 </resources>
