@@ -271,8 +271,8 @@
   <string name="trans_generate_qr_code_failed">"QR Kod oluşturulamadı"</string>
   <string name="trans_main_tutor">Kişileri, arama geçmişinizi, ayarlarınızı, uygulamalarınızı ve ana ekran düzenini yeni cihazınıza Transfer edin.</string>
   <string name="trans_my_device">Cihazım</string>
-  <string name="trans_native_no_space">"Bu cihazda yeterli depolama alanı yok
-Lütfen en az %s kadar boş alan temizleyin"</string>
+  <string name="trans_native_no_space">"Eski aygıtta yeterli depolama alanı yok (%s kullanılabilir).
+Depolama alanını boşaltın veya yalnızca önemli öğeleri aktarın."</string>
   <string name="trans_one_key_migrate">Mi Transfer</string>
   <string name="trans_operate_func_one">Usul A</string>
   <string name="trans_operate_func_two">Usul B</string>
@@ -305,8 +305,8 @@ WLAN iNet\'i kapatmayın.
   <string name="trans_scan_invalid_qrcode">QR kodu geçersiz</string>
   <string name="trans_scan_qr_code_tips">Alıcı cihazı kullanarak QR kodunu tarayın</string>
   <string name="trans_select_data">Gönderilecek verileri seçin</string>
-  <string name="trans_select_data_no_space">"Gönderilecek cihazda yeterli alan yok. 
-Dosyaları yeniden seçin veya %s kadar boş alan oluşturun"</string>
+  <string name="trans_select_data_no_space">"Yeni cihazda yeterli depolama alanı yok (%s kullanılabilir). 
+Depolama alanını boşaltın veya yalnızca önemli öğeleri aktarın."</string>
   <string name="trans_select_data_tips">"Aktarmak için dosyaları seçin
 Benzer dosyalar Alıcı cihazınızın üstüne yazılır"</string>
   <string name="trans_select_device_receive">Veri almak için tek bir cihaz seçin.</string>
