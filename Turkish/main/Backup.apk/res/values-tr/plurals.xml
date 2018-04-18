@@ -44,12 +44,20 @@
         <item quantity="other">%d öğeyi yeniden almanız gerekir</item>
         <item quantity="one">%d öğeyi yeniden almanız gerekir</item>
     </plurals>
-     <plurals name="total_num">
-       <item quantity="other">%d öğe,</item>
-       <item quantity="one">%d öğe,</item>
-     </plurals>
-     <plurals name="custom_progress">
-       <item quantity="other">%d öğe</item>
-       <item quantity="one">%d öğe</item>
-     </plurals>	
+    <plurals name="total_num">
+         <item quantity="other">%d öğe,</item>
+         <item quantity="one">%d öğe,</item>
+    </plurals>
+    <plurals name="custom_progress">
+         <item quantity="other">%d öğe</item>
+         <item quantity="one">%d öğe</item>
+    </plurals>	
+    <plurals name="trans_failed_summary">
+         <item quantity="other">%d öğe aktarılamadı. Detayları görmek için dokunun.</item>
+         <item quantity="one">%d öğe aktarılamadı. Detayları görmek için dokunun.</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+         <item quantity="other">%d öğe aktarılamadı.</item>
+         <item quantity="one">%d öğe aktarılamadı.</item>
+    </plurals> 
 </resources>
