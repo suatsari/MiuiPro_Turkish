@@ -1977,7 +1977,7 @@
   <string name="legal_workday_invalidate_message">Resmi tatil bilgilerini güncellemek için dokunun.</string>
   <string name="legal_workday_message">(Tatilleri atla)</string>
   <string name="license_title">Lisans</string>
-  <string name="lift_to_wake_title">Uyandırmak için kaldır</string>
+  <string name="lift_to_wake_title">Uyandırmak için cihazı kaldır</string>
   <string name="line_breaking_summary">Paragrafın satır kırılmasını iyileştir</string>
   <string name="line_breaking_title">Metini iyi hale getir</string>
   <string name="link_speed">%1$d Mbps</string>
@@ -2792,7 +2792,7 @@
   <string name="phone_language">Diller</string>
   <string name="physical_device_title">%1$s - %2$s</string>
   <string name="physical_keyboard_title">Fiziksel Klavye</string>
-  <string name="pick_up_gesture_wakeup_title">Uyandırmak için kaldır</string>
+  <string name="pick_up_gesture_wakeup_title">Uyandırmak için cihazı kaldır</string>
   <string name="picker_activities">Aksiyon</string>
   <string name="picture_color_mode">Renkli Resim Modu</string>
   <string name="picture_color_mode_desc">sRGB kullan</string>
