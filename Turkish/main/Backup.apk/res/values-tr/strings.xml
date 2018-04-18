@@ -521,5 +521,17 @@ Yalnızca önemli verileri seçmeniz önerilir"</string>
   <string name="notif_disconnect_miasist">Mi PC Suite bağlı değil</string>
   <string name="notif_parse_select_descript_error">Listedeki yedeklenen öğeler eşitlenemedi.</string>
   <string name="notif_receiving_transingsd">Alınıyor %1$s (%2$s)...</string>
-  <string name="notif_sending_transingsd">Gönderiliyor %1$s (%2$s)...</string> 
+  <string name="notif_sending_transingsd">Gönderiliyor %1$s (%2$s)...</string>
+  <string name="button_clean_garbage">Boş alan</string>
+  <string name="button_got_it">Tamam</string>
+  <string name="button_quit">Çıkış</string>
+  <string name="err_bakfile_not_exist">Yedekleme dosyası mevcut değil.</string>
+  <string name="err_binder_died">Uygulama beklenmedik bir şekilde durdu.</string>
+  <string name="err_pkg_not_exist">Uygulama bulunamadı.</string>
+  <string name="err_user_abort">Kullanıcı tarafından iptal edildi.</string>
+  <string name="trans_failed_details_page_title">Aktarma başarısız</string>
+  <string name="trans_generate_qrcode_failed">QR kodu oluşturulamadı. Tekrar deneyin.</string>
+  <string name="trans_generating_qrcode">QR kodu oluşturuluyor…</string>
+  <string name="trans_old_phone_low_space_msg">Mi Taşıyıcı aktarılan verileri paketlemek için depolama alanına ihtiyaç duyuyor, ancak eski cihazda yeterli alan yok gibi görünüyor. \"Güvenlik\" içinde yer açın veya sadece önemli öğeleri aktarın.</string>
+  <string name="trans_old_phone_low_space_title">Yeterli depolama alanı yok</string>  
 </resources>
