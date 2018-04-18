@@ -325,8 +325,7 @@ Cihazlarınızı birbirine yakın tutun."</string>
   <string name="trans_start_failed_message">Başlatılamadı, lütfen yeniden deneyin veya cihazı yeniden başlatın</string>
   <string name="trans_start_failed_title">Başlatılamadı</string>
   <string name="trans_time_format_second">Bir dakikadan daha az</string>
-  <string name="trans_time_spent">"
-Geçen Zaman: %s"</string>
+  <string name="trans_time_spent">Geçen Zaman: %s</string>
   <string name="trans_wait_trans_data">"Alıcı aygıtı bağlı.
 Transferi için bekleniyor..."</string>
   <string name="trans_waiting_ensurance">"Mi Transferin etkin ve
