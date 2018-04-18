@@ -2588,7 +2588,7 @@
   <string name="notification_app_settings_button">Bildirim Ayarları</string>
   <string name="notification_breathing_light_color_title">Bildirim Işığının Rengi</string>
   <string name="notification_breathing_light_freq_title">Bildirimin Yanıp-Sönme Aralığı</string>
-  <string name="notification_icon_title">Bildirimdeki avatarlar</string>
+  <string name="notification_icon_title">Bildirimlerde avatar</string>
   <string name="notification_importance_blocked">Bu uygulamadaki bildirimleri asla gösterme</string>
   <string name="notification_importance_default">Tam ekran kesintisi veya atlama yok</string>
   <string name="notification_importance_high">Daima gözetle. Tam ekran kesintisi yok.</string>
