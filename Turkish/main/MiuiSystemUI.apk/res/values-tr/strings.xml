@@ -804,4 +804,10 @@
   <string name="low_temperature_warning_title">Düşük sıcaklık uyarısı</string>
   <string name="click_to_return_multi_window_of_notch">Bölünmüş ekrana dön</string>
   <string name="select_logd_level">Günlük seviyesini seç</string>
+  <string name="enter_special_mode_message">Uygulamayı yeniden başlattıktan sonra, uygulama içeriği üstte durum çubuğu alanına genişletilecektir. İçerik tıkanıklığı ve yanlış yerleştirme gibi istisnalar varsa, varsayılan modu geri yüklemek için düğmeye tekrar tıklayabilirsiniz.</string>
+  <string name="enter_special_mode_title">Uygulamayı yeniden başlatın ve görüntü alanını genişletin</string>
+  <string name="exit_special_mode_message">Uygulama yeniden başlattıktan sonra uygulama görüntüleme alanı varsayılan moda geri yüklenir.</string>
+  <string name="exit_special_mode_title">Uygulamayı yeniden başlatın ve görüntü alanını geri yükleyin</string>
+  <string name="special_mode_cancel">İptal</string>
+  <string name="special_mode_ok">Yeniden başlat</string>   
 </resources>
