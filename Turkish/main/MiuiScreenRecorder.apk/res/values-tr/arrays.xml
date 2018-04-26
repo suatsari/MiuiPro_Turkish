@@ -32,4 +32,8 @@
         <item>Mikrofon</item>
         <item>Hoparlör</item>
     </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Dahili depolama</item>
+        <item>Harici depolama</item>
+    </string-array>      
 </resources>
