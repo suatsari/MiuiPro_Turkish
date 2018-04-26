@@ -668,5 +668,19 @@ Yapılan girişim: %s."</string>
     <string name="prefDefault_vibrate_false">asla</string>
     <string name="prefDefault_vibrate_true">her zaman</string>
     <string name="sqlite_disk_full">Cihazınızdaki depolama alanı dolu.</string>
-    <string name="sqlite_low_memory">Yeterli depolama alanı yok</string>	
+    <string name="sqlite_low_memory">Yeterli depolama alanı yok</string>
+    <string name="button_emoji_creature">Hayvan emojisi</string>
+    <string name="button_emoji_lifestyle">Yaşam tarzı emojisi</string>
+    <string name="button_emoji_smiley">Yüz emojisi</string>
+    <string name="button_emoji_symbol">Sembol emojisi</string>
+    <string name="button_emoji_text">Metin emojisi</string>
+    <string name="button_fold">Katlama</string>
+    <string name="button_next_slide">Sonraki</string>
+    <string name="button_pre_slide">Önceki</string>
+    <string name="button_resend_message">Tekrar gönder</string>
+    <string name="button_unfold">Açılma</string>
+    <string name="dialog_message_fake_cell_detect_error">Bu mesajla ilgili bilgileri düzeltin? Bunu yapmak için, MIUI\'nin telefon numarasını (%1$s), mesajın içeriğini ve yakındaki konum hakkındaki bilgileri kendi sunucularına yüklemesi gerekir.</string>
+    <string name="dialog_title_fake_cell_detect_error">Düzelt</string>
+    <string name="draft">Taslak</string>
+    <string name="fake_cell_alert_detect_error">Bu sahte bir baz hücresinden gönderilmedi</string>     
 </resources>
