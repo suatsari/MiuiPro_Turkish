@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="app_name">Keyguard</string>
   <string name="accessibility_enter_lock_wallpaper">Kilit Ekran duvar kağıdına dokunun</string>
   <string name="btn_camera">Yüzünüzü girin</string>
   <string name="change_to_ac_charging">Kablolu şarj bağlı</string>
