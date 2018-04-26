@@ -2240,7 +2240,7 @@ bir şifre kullanın"</string>
   <string name="network_changed_noti_title">WLAN bağlantısı kesildi</string>
   <string name="network_control">Uygulama ayarlarına gözat</string>
   <string name="network_speed_for_apps_close">Zorla durdur</string>
-  <string name="network_speed_for_apps_close_app_dlg_msg">Bu uygulamayı zorla durdurmak istiyormusunuz?</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Bu uygulama zorla durdurulsun mu?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">Bu uygulama zorla durdurulamıyor</string>
   <string name="network_speed_for_apps_others">Diğer</string>
   <string name="network_speed_for_apps_title">Bağlantı</string>
