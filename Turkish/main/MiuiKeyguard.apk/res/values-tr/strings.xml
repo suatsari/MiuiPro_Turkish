@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Kilit Ekran duvar kağıdına dokunun</string>
   <string name="btn_camera">Yüzünüzü girin</string>
-  <string name="change_to_ac_charging">Kablosuz şarj moduna geçti</string>
+  <string name="change_to_ac_charging">Kablolu şarj bağlı</string>
   <string name="click_to_enter_text">Gözatmak için dokunun</string>
   <string name="confirm_pin_msg">PIN kodunu tekrar girin</string>
   <string name="custom_lock_wallpaper_enter">Gir</string>
@@ -137,8 +137,8 @@
   <string name="phone_locked_forget_password_suggesstion_two_content">"&lt;Data&gt;&lt;font color=#a5220e&gt;\"Sil &amp;amp; Sıfırla\"&lt;/font&gt; seçin ve cihaz yeniden başlatılıncaya kadar bekleyin.&lt;/Data&gt;"</string>
   <string name="phone_locked_forget_password_suggesstions_title">Veriler nasıl silinir?</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>
-  <string name="reset_device_detail_tip">Yüksek şarj olmadığından emin olmak için cihazınızı kablosuz şarj cihazına doğru şekilde yerleştirin.</string>
-  <string name="reset_device_tip">Şarj yavaş. Cihazını tekrar ayarla.</string>
+  <string name="reset_device_detail_tip">Cihazınızın şarj ünitesindeki konumunun doğru olduğundan emin olun.</string>
+  <string name="reset_device_tip">Şarj işlemi yavaş. Cihazınızı ayarlayın.</string>
   <string name="symbol_colon">:</string>
   <string name="unlock_camera_steady">Lütfen sabit tutun</string>
   <string name="unlock_failed">İç hata</string>
@@ -149,10 +149,10 @@
   <string name="unlockscreen_recharge_completed">Şarj oldu</string>
   <string name="unlockscreen_recharging_message">Şarj ediliyor: %%%d</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Ayrıntıları görmek için bırakın</string>
-  <string name="wireless_charge_dialog_cancel">İptal</string>
-  <string name="wireless_charge_dialog_title">Cihazınızı kablosuz şarj cihazında yeniden ayarlayın</string>
+  <string name="wireless_charge_dialog_cancel">Anladım</string>
+  <string name="wireless_charge_dialog_title">Cihazınızı şarj ünitesinin ortasına yerleştirin</string>
   <string name="wireless_charge_stop">Kablosuz şarj durduruldu</string>
-  <string name="wireless_current_charge">Mevcut şarj</string>
+  <string name="wireless_current_charge">Şarj</string>
   <string name="wrong_password">Yanlış şifre</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Greenguard aktif olduğunda alanlar arasında geçiş yapılamaz</string>
   <string name="gxzw_press_harder">Biraz daha sert basın</string>
