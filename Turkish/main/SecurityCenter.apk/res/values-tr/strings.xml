@@ -2279,5 +2279,17 @@ bir şifre kullanın"</string>
   <string name="gb_msg_quickly_answer">Hızlı yanıtlara izin ver</string>
   <string name="gb_msg_quickly_answer_summary">Hızlı cevap</string>
   <string name="gb_msg_transparent_dispaly">Arka planı şeffaf bildirimler</string>
-  <string name="gb_msg_transparent_dispaly_summary">Şeffaf</string>  
+  <string name="gb_msg_transparent_dispaly_summary">Şeffaf</string>
+  <string name="adjust_sms_cmd">&lt;u&gt;Kalibrasyon SMS şablonunu ayarla&lt;/u&gt;</string>
+  <string name="dialog_roaming_warning_checkbox">Tekrar gösterme</string>
+  <string name="dialog_roaming_warning_message">Uluslararası veri dolaşımını açtıktan sonra operatör sizi ücretlendirecektir. Yinede açılsın mı?</string>
+  <string name="dialog_roaming_warning_ok">Aç</string>
+  <string name="menu_setting_traffic">Manuel ayarlar</string>
+  <string name="sms_detail_correct_success_text">Önceki kalibrasyona ait veri kullanım istatistikleri (%1$s):</string>
+  <string name="tc_cmd_invalid">Şablon geçersiz</string>
+  <string name="tc_get_cmd_error">Şablon alınamadı</string>
+  <string name="tc_parse_error">SMS ayrıştırılamadı</string>
+  <string name="tc_receive_timeout">Kalibrasyon zaman aşımına uğradı</string>
+  <string name="tc_send_sms_error">SMS gönderilemedi</string>
+  <string name="tc_web_correct_error">Kalibre edilemedi</string> 
 </resources>
