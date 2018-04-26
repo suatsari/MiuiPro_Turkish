@@ -1199,5 +1199,17 @@
   <string name="send_secret_file_failed">Paylaşılamadı</string>
   <string name="send_secret_file_space_low">Yeterli depolama alanı yok</string>
   <string name="share_album_qr_code">Albümün QR kodu</string>
-  <string name="view_more_face_desc">Daha fazla kişiyi görüntüle</string>  
+  <string name="view_more_face_desc">Daha fazla kişiyi görüntüle</string>
+  <string name="refocus_discard_confirm_message">Değişiklikleri Kaydet?</string>
+  <string name="refocus_discard_negative_btn">Vazgeç</string>
+  <string name="refocus_discard_positive_btn">Kaydet</string>
+  <string name="refocus_photo_not_support">Bu fotoğrafa bulanıklık uygulanamıyor</string>
+  <string name="refocus_save_cancel">İptal</string>
+  <string name="refocus_save_title">Formatı seçin</string>
+  <string name="refocus_save_to_photo">Resim olarak kaydet</string>
+  <string name="refocus_save_to_video">Video olarak kaydet</string>
+  <string name="refocus_saving">Kaydediliyor…</string>
+  <string name="refocus_title">Bulanıklık</string>
+  <string name="refocus_type_static">Bulanıklık seviyesi</string>
+  <string name="refocus_type_video">Işık yolu</string>  
 </resources>
