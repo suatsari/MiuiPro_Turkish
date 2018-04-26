@@ -66,5 +66,16 @@
   <string name="description_content">Ekran Kaydedici, sistem düzeyinde kayıt yapma olanağı sağlar.Bu eylem, ekran kaydı özelliğinin iptal edileceği anlamına gelir. Kabul et?</string>
   <string name="description_title">Ekran Kaydedici Hakkında</string>
   <string name="app_notification_info">Ekran Kaydedici arka planda çalışıyor</string>
-  <string name="recording_without_mic">Mikrofon engelli,mikrofon sesi kaydedilemiyor</string>  
+  <string name="recording_without_mic">Mikrofon engelli,mikrofon sesi kaydedilemiyor</string> 
+  <string name="cannot_change_frames">Kare hızı yalnızca sabit kare hızına sahip kayıtlar için özelleştirilebilir.</string>
+  <string name="close_screen_record">Kayıt durduruldu</string>
+  <string name="fixed_frame_rate">Sabit kare hızı</string>
+  <string name="fixed_frame_rate_summary">Sabit kare hızıyla video kaydetme, sosyal medya platformlarında oynatmayı geliştirir ve pil ömrünü azaltır.</string>
+  <string name="is_checked">Seçili</string>
+  <string name="is_go_home">Ekran kaydediciye geri dön</string>
+  <string name="is_go_home_summary">Kaydı durdurduktan sonra Ekran kaydedicinin başlangıç sayfasını aç</string>
+  <string name="settings">Ayarlar</string>
+  <string name="storage_location">Depolama</string>
+  <string name="storage_location_summary">Tercih ettiğiniz depolama seçeneğini seçin</string>
+  <string name="unchecked">Seçili değil</string>  
 </resources>
