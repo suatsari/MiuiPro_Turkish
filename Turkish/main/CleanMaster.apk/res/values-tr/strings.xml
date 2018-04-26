@@ -614,4 +614,13 @@
   <string name="pref_title_auto_clean">Otomatik olarak temizle</string>
   <string name="pref_title_auto_clean_operation">Temizleme yöntemi</string>
   <string name="pref_title_auto_clean_trigger">Depolama alanını temizle</string>
+  <string name="guide_secure_dialog_message">Cihazınızın optimizasyon puanı 80 puandan düşük. Şimdi optimize edilsin mi?</string>
+  <string name="guide_secure_dialog_negative">İptal</string>
+  <string name="guide_secure_dialog_positive">Optimize</string>
+  <string name="guide_secure_dialog_title">Performansı optimize et</string>
+  <string name="guide_virus_dialog_message">Uygulamaları ve yükleme paketlerini tarama, cihazınızı virüslerden ve kötü amaçlı yazılımlardan korur. Cihazınızı şimdi tarayın?</string>
+  <string name="guide_virus_dialog_negative">İptal</string>
+  <string name="guide_virus_dialog_positive">Tarama</string>
+  <string name="guide_virus_dialog_title">Antivirüs taraması</string>
+  <string name="mainbtn_text_no_trash">Atla</string>  
 </resources>
