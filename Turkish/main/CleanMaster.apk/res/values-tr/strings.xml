@@ -622,5 +622,13 @@
   <string name="guide_virus_dialog_negative">İptal</string>
   <string name="guide_virus_dialog_positive">Tarama</string>
   <string name="guide_virus_dialog_title">Antivirüs taraması</string>
-  <string name="mainbtn_text_no_trash">Atla</string>  
+  <string name="mainbtn_text_no_trash">Atla</string> 
+  <string name="menu_open">Aç</string>
+  <string name="tips_low_storage_dialog_cancel">İptal</string>
+  <string name="tips_low_storage_dialog_msg_qq">QQ önbellek boyutu 3GB\'a ulaştı. Bu, cihazınızı yavaşlatabilir. QQ önbelleğini şimdi temizle?</string>
+  <string name="tips_low_storage_dialog_msg_storage">Depolama alanınızın %90\'ını kullanıyorsunuz. Kullanmadığınız uygulamaları kaldırın.</string>
+  <string name="tips_low_storage_dialog_msg_wechat">WeChat önbellek boyutu 3GB\'a ulaştı. Bu, cihazınızı yavaşlatabilir. Şimdi WeChat önbelleğini temizle?</string>
+  <string name="tips_low_storage_dialog_ok">Temizle</string>
+  <string name="tips_low_storage_dialog_ok_storage">Boş alan</string>
+  <string name="tips_low_storage_dialog_title">Depolama alanı azalıyor</string>  
 </resources>
