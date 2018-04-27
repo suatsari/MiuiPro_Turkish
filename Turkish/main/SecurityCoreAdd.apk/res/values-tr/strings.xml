@@ -383,5 +383,6 @@
   <string name="use_xiaoai_open">Ses asistanını kullanarak uyandırma</string>
   <string name="agree">Kabul et</string>
   <string name="disagree">Reddet</string>
-  <string name="net_work_notice">Ebeveyn kontrollerinin internete bağlanması ve normal çalışabilmesi için konum erişimi gerekir. Bu izinler pil seviyeleri, adım sayısı ve konumunuz ile ilgili bilgileri kontrollü cihazlara göndermek için gereklidir. İzin ver?</string>   
+  <string name="net_work_notice">Ebeveyn kontrollerinin internete bağlanması ve normal çalışabilmesi için konum erişimi gerekir. Bu izinler pil seviyeleri, adım sayısı ve konumunuz ile ilgili bilgileri kontrollü cihazlara göndermek için gereklidir. İzin ver?</string> 
+  <string name="qq_login">QQ\'da oturum açın</string>
 </resources>
