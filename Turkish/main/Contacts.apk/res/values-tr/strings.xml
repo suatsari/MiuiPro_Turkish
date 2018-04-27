@@ -1491,4 +1491,5 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="sdnContacts_empty">SDN yok</string>
   <string name="sdnContacts_emptyLoading">SDN yükleniyor…</string
   <string name="special_code_security_exception">İşlem reddedildi : Varsayılan çevirici değil</string>  
+  <string name="no_setting_menu">Kullanılabilir menü seçeneği yok</string>
 </resources>
