@@ -68,4 +68,16 @@
         <item>Ertele</item>
         <item>Kapat</item>
     </string-array>
+    <string-array name="weather_tips_value">
+        <item>Açık hava etkinliklerini azaltın</item>
+        <item>Yollar kaygan</item>
+        <item>Hava fırtınalı, dikkatli olun.</item>
+        <item>Bugün sisli. Dikkatli sürün.</item>
+        <item>Hava kirli, maske takın.</item>
+        <item>Dışarı çıkarken şemsiyenizi alın</item>
+        <item>Yolda dikkatli olun</item>
+        <item>Bugün yağışlı, dikkatli olun.</item>
+        <item>Kum fırtınası geliyor, maske takın.</item>
+        <item>İyi günler!</item>
+    </string-array>
 </resources>
