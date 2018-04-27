@@ -286,7 +286,7 @@
   <string name="micloud_main_head_menu_recycle_bin_title">Geridönüşüm Kutusu</string>
   <string name="micloud_main_head_menu_state_close">Kapalı</string>
   <string name="micloud_main_head_menu_state_open">Açıldı</string>
-  <string name="micloud_main_head_menu_state_unavailable">Kullanım dışı</string>
+  <string name="micloud_main_head_menu_state_unavailable">Desteklenmiyor</string>
   <string name="micloud_main_last_sync_time">%s eşitlendi</string>
   <string name="micloud_main_master_sync_on">Senkronize et</string>
   <string name="micloud_main_memory_low_message">Eşitleme için, bulutta depolanmış bazı öğeleri silin.</string>
