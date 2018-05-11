@@ -5424,5 +5424,7 @@
   <string name="mqs_privacy_dialog_cancel">İptal</string>
   <string name="mqs_privacy_dialog_confirm">Yükle</string>
   <string name="mqs_privacy_dialog_content">Bu sorunu bulmamıza ve çözmemize yardımcı olmak için günlükleri yükleyin. Günlükler, bulunduğunuz yerle ilgili bilgiler dahil olmak üzere kişisel bilgilerinizi içerebilir.</string>
-  <string name="mqs_privacy_dialog_title">Bir hata oluştu</string>  
+  <string name="mqs_privacy_dialog_title">Bir hata oluştu</string>
+  <string name="notch_force_black_desc">Açık olduğunda, ekranda çentik alanı siyah</string>
+  <string name="notch_force_black_title">Ekran çentiğini gizle</string>  
 </resources>
