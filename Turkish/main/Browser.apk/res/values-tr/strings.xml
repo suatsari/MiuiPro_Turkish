@@ -1237,4 +1237,16 @@
   <string name="play_video">Videoyu oynat</string>
   <string name="popup_video">Yüzen video</string>
   <string name="share_video">Videoyu paylaş</string>  
+  <string name="action_one_touch">Bildirimleri aç</string>
+  <string name="action_skip">Atla</string> 
+  <string name="enter_infoflow_guide">Haberleri görmek için yukarı kaydırın</string>
+  <string name="hot_words_item_ads_mark">Reklamlar</string>
+  <string name="info_flow_description">Bilgi kanalı</string>
+  <string name="message_notice_push">Son sıcak noktaları artık kaçırmayın!</string>
+  <string name="pref_navscreen_layoutstate_title">Çoklu pencere yönetimi</string>
+  <string name="refresh_description">Yenile</string>
+  <string name="short_video_description">Video kanalı</string>
+  <string name="short_video_tip">Bak! Eğlenceli video</string>
+  <string name="suggestion_clear_record_message">Boş giriş kaydını onaylıyor musunuz?</string>
+  <string name="title_notice_push">Hatırlatma uyarısı</string>  
 </resources>
