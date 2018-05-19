@@ -68,15 +68,15 @@ Lütfen satış temsilcinize başvurun."</string>
   <string name="unlock_error_unknown">"Oturum açılamıyor"</string>
   <string name="unlock_error_user_name">Geçersiz kullanıcı adı</string>
   <string name="unlock_error_wrong_vcode">Girmiş olduğunuz kod hatalı</string>
-  <string name="unlock_help">"Ağa bağlı kalın
-Çalışan bir SIM kart taktığınızdan(cihazınız bunu destekliyorsa), ve cihazınız etkisiz bir WLAN ağına bağlı olmadığından emin olun
+  <string name="unlock_help">"Ağda bağlı kalın
+Çalışan bir SIM kart taktığınızdan (cihazınız bunu destekliyorsa), ve cihazınız etkisiz bir WLAN ağına bağlı olmadığından emin olun
 
 Şifreyi unuttunuz mu?
 Şifrenizi sıfırlamak için id.mi.com adresine gidin
 
-Diğer sebepler
-i.mi.com oturumu açın ve oradan cihazınızın kilidini deneyin"</string>
-  <string name="unlock_help_title">Yardım kilidini aç:</string>
+Diğer bir yöntem
+i.mi.com adresinde oturum açın, oradan cihazınızın kilidini açmayı deneyin"</string>
+  <string name="unlock_help_title">Kilit Açma Yardımı:</string>
   <string name="unlock_wrong_captcha">Girdiğiniz kod yanlış</string>
   <string name="unlocking">Etkinleştiriliyor…</string>
   <string name="verifing_account">Şifre doğrulanıyor...</string>
