@@ -75,7 +75,7 @@ Lütfen satış temsilcinize başvurun."</string>
 Şifrenizi sıfırlamak için id.mi.com adresine gidin
 
 Diğer bir yöntem
-i.mi.com adresinde oturum açın, oradan cihazınızın kilidini açmayı deneyin"</string>
+i.mi.com adresinde oturum açarak cihazınızın kilidini açmayı deneyin"</string>
   <string name="unlock_help_title">Kilit Açma Yardımı:</string>
   <string name="unlock_wrong_captcha">Girdiğiniz kod yanlış</string>
   <string name="unlocking">Etkinleştiriliyor…</string>
