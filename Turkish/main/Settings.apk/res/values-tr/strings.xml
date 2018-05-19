@@ -5427,9 +5427,7 @@
   <string name="mqs_privacy_dialog_title">Bir hata oluştu</string>
   <string name="notch_force_black_desc">Açık olduğunda, ekranda çentik alanı siyah</string>
   <string name="notch_force_black_title">Ekran çentiğini gizle</string>
-  <string name="defalut_launcher_title">Varsayılan Başlatıcı</string>
   <string name="launcher_auto_fill_empty_title">Boş Hücreleri Doldur</string>
-  <string name="launcher_title">Ana Ekran</string>
   <string name="lock_screen_cells_title">Ana Ekran düzenini kilitle</string>
   <string name="miui_screen_config_title">Ana Ekran Ayarları</string>
   <string name="open_personal_assistant_dialog_btn_cancel">İptal</string>
@@ -5437,8 +5435,7 @@
   <string name="open_personal_assistant_dialog_desc">Uygulama Kasası\'nı kullanamaz ve güncellemelerini alamazsınız. Şimdi kapatılsın mı?</string>
   <string name="open_personal_assistant_dialog_title">Uygulama Kasası\'nı kapat</string>
   <string name="open_personal_assistant_title">Uygulama Kasası\'nı aç</string>
-  <string name="preferred_app_settings_not_selected">Seçilmedi</string>
   <string name="recents_config_title">En Son</string>
   <string name="screen_cells_config_title">Ana Ekran Düzeni</string>
-<string name="show_mem_info_title">Hafıza durumunu göster</string>  
+  <string name="show_mem_info_title">Hafıza durumunu göster</string>  
 </resources>
