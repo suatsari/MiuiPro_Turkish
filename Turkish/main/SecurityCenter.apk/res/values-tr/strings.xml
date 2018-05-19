@@ -754,6 +754,7 @@ bir şifre kullanın"</string>
   <string name="gb_description_image_button_video_answer">Görüntülü arama</string>
   <string name="gb_get_gift_right_now">Şimdi kontrol et</string>
   <string name="gb_have_signed">Bugün kontrol edildi</string>
+  <string name="gb_msg_not_shielded_summary">Göster</string>
   <string name="gb_network_status_bad">Bir bağlantı hatası oluştu.</string>
   <string name="gb_new_feature">Yeni özellik</string>
   <string name="gb_sign_gift">Ödüller almak için giriş yapın</string>
@@ -2292,4 +2293,4 @@ bir şifre kullanın"</string>
   <string name="tc_receive_timeout">Kalibrasyon zaman aşımına uğradı</string>
   <string name="tc_send_sms_error">SMS gönderilemedi</string>
   <string name="tc_web_correct_error">Kalibre edilemedi</string> 
-</resources>
+  </resources>
