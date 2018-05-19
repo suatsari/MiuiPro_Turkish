@@ -981,7 +981,7 @@
   <string name="same_folder_name_warning">Aynı isme sahip bir grup zaten mevcut</string>
   <string name="save_button_text">Kaydet</string>
   <string name="save_dialog_title">Kaydet</string>
-  <string name="save_file">%s dosyalarını kaydet</string>
+  <string name="save_file">Kaydet</string>
   <string name="save_file_already_exist_alert_message">Aynı ada sahip bir dosya zaten var, değiştirilsin mi?</string>
   <string name="save_file_already_exist_alert_title">Dosya üzerine yazılsın mı?</string>
   <string name="save_form_data_confirm_message">Bu özelliği kapamak kullanımınızı etkileyebilir.</string>
