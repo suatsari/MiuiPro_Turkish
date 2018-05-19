@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="access_sd_fail">SD Karta erişilemiyor.</string>
+  <string name="accessibility_ai_scene_off">AI kamera kapalı</string>
+  <string name="accessibility_ai_scene_on">AI kamera</string>  
   <string name="accessibility_audio_shutter_bg">Arkaplan Deklanşör Sesi</string>
   <string name="accessibility_back_preview_status">Arka kamera önizleme</string>
   <string name="accessibility_beauty_panel_closed">Güzelleştir menüsü gizlendi</string>
@@ -543,5 +545,5 @@ ve sonra herkesin en iyi göründüğü bir resim oluşturacak."</string>
   <string name="simple_mode_button_text_raw">RAW kapat</string>
   <string name="portait_effect_entry_movie">Film</string>
   <string name="portait_effect_entry_riddle">Bilmece</string>
-  <string name="portait_effect_entry_story">Hikaye</string>
+  <string name="portait_effect_entry_story">Hikaye</string> 
 </resources>
