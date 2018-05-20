@@ -1489,7 +1489,7 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="pref_key_sdn_manage1">SDN Kart 1\'i göster</string>
   <string name="pref_key_sdn_manage2">SDN Kart 2\'yi göster</string>
   <string name="sdnContacts_empty">SDN yok</string>
-  <string name="sdnContacts_emptyLoading">SDN yükleniyor…</string
+  <string name="sdnContacts_emptyLoading">SDN yükleniyor…</string>
   <string name="special_code_security_exception">İşlem reddedildi : Varsayılan çevirici değil</string>  
   <string name="no_setting_menu">Kullanılabilir menü seçeneği yok</string>
 </resources>
