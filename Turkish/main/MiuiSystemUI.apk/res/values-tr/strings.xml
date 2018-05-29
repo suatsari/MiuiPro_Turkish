@@ -383,7 +383,7 @@
   <string name="keyboard_shortcut_group_system_recents">Son</string>
   <string name="keyboard_shortcut_group_system_shortcuts_helper">Klavye Kısayolları</string>
   <string name="keyboard_shortcut_group_system_switch_input">Giriş yöntemini değiştir</string>
-  <string name="kilobyte_per_second">K/sn</string>
+  <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Gözat</string>
   <string name="launch_defaults_none">Varsayılan ayar yok</string>
   <string name="launch_defaults_some">Bazı varsayılanları ayarla</string>
@@ -418,7 +418,7 @@
   <string name="media_projection_action_text">Başlat</string>
   <string name="media_projection_dialog_text">%s ekranda görüntülenen her şeyi yakalamaya başlayacak.</string>
   <string name="media_projection_remember_text">Tekrar gösterme</string>
-  <string name="megabyte_per_second">M/san</string>
+  <string name="megabyte_per_second">M/s</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data_always_on">Hücresel veriler her zaman aktif</string>
   <string name="mobile_data_always_on_summary">Wi-Fi etkin olsa bile, mobil verileri her zaman aktif tutun (hızlı ağ değiştirmek için).</string>
