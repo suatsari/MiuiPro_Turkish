@@ -1076,7 +1076,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Çağrı Ayarları</string>
   <string name="preference_remove_duplicate">Aynı kişileri birleştir</string>
-  <string name="preference_show_yellowpage_tab_description">Sarı Sayfalar sekmesini kapatın, Sarı Sayfalar işlevi düzgün çalışmıyor</string>
+  <string name="preference_show_yellowpage_tab_description">Bu özellik kapalı olduğunda Sarı Sayfalar düzgün çalışmayabilir.</string>
   <string name="preference_show_yellowpage_tab_title">Sarı Sayfalar sekmesini göster</string>
   <string name="preference_simple_mode_description">Fotoğraf ve diğer kişi bilgilerini liste halinde görüntüler</string>
   <string name="preference_simple_mode_title">Fotoğraf ve Bilgiyi Görüntüle</string>
@@ -1456,9 +1456,6 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Dün</string>
   <string name="zero_items_selected">Öğeleri Seç</string>
-  <string name="preference_other">Diğer</string>
-  <string name="preference_show_yellowpage_tab_title">YellowPage sekmesini göster</string>
-  <string name="preference_show_yellowpage_tab_description">YellowPage sekmesini kapatırsanız,YellowPage işlevi düzgün çalışmaz</string>
   <string name="t9_search_empty_create_contact">Yeni kişi</string>
   <string name="t9_search_empty_video_call">Görüntülü arama</string>
   <string name="t9_search_empty_send_sms">Mesaj gönder</string>
