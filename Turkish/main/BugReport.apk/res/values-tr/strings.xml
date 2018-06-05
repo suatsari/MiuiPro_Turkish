@@ -308,5 +308,12 @@
   <string name="feedback_title_reproductivity">Tekrarlanabilir olanı seçin</string>  
   <string name="app_search">Uygulamaları ara</string>
   <string name="issue_search">Arama</string>
-  <string name="submit_dialog_content_global">Görüşleriniz, ekler ve günlüklerle birlikte MIUI sunucularına gönderilecek. Kayıtlar, kişisel bilgi ve konum verileri içerebilir. İlişkili kutunun işaretini kaldırarak günlük göndermemeyi seçebilirsiniz.</string>  
+  <string name="submit_dialog_content_global">Görüşleriniz, ekler ve günlüklerle birlikte MIUI sunucularına gönderilecek. Kayıtlar, kişisel bilgi ve konum verileri içerebilir. İlişkili kutunun işaretini kaldırarak günlük göndermemeyi seçebilirsiniz.</string> 
+  <string name="feedback_status_collect_log_failed">Günlükler alınamadı</string>
+  <string name="feedback_status_get_and_save_bbs_info_failed">Ek URL adresi alınamadı</string>
+  <string name="feedback_status_save_log_info_failed">Ek URL adresi alınamadı</string>
+  <string name="feedback_status_submit_bbs_failed">Geribildirim içeriği gönderilemedi</string>
+  <string name="feedback_status_submit_feedback_failed">Geri bildirim gönderilemedi</string>
+  <string name="feedback_status_upload_log_failed">Ekler yüklenemedi</string>  
+  <string name="toast_loading_app_id">Bilgi alınıyor…</string>
 </resources>

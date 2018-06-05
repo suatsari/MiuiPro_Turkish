@@ -1248,5 +1248,6 @@
   <string name="short_video_description">Video kanalı</string>
   <string name="short_video_tip">Bak! Eğlenceli video</string>
   <string name="suggestion_clear_record_message">Boş giriş kaydını onaylıyor musunuz?</string>
-  <string name="title_notice_push">Hatırlatma uyarısı</string>  
-</resources>
+  <string name="title_notice_push">Hatırlatma uyarısı</string>
+  <string name="save_file_suffix">dosya</string>
+ </resources>
