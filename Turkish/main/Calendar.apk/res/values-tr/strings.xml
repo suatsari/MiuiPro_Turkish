@@ -787,22 +787,4 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="miuishare_wechat_timeline_title">WeChat Anlar</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="share_title">Paylaş</string>  
-  <string name="action_bar_date_button_title">Tarih hesapla</string>
-  <string name="anniversary_secondary_tag">Yıldönümü</string>
-  <string name="birthday_born">Doğum günü</string>
-  <string name="clear_net_mock_success">Net sahte açık başarı</string>
-  <string name="countdown_secondary_tag">Geri sayım</string>
-  <string name="date_calculate_hint">Birkaç gün sonra hangi tarih olduğunu öğrenin</string>
-  <string name="date_jump_hint">Belirli bir güne doğrudan atlayın</string>
-  <string name="date_jump_title">Tarihe atla</string>
-  <string name="edit_event_birthday_reminder_3_days_before">3 gün önceden de hatırlat</string>
-  <string name="guide_card_import">Al</string>
-  <string name="guide_card_primary_text">Arkadaş doğum gününü içe aktar</string>
-  <string name="guide_card_second_text">Toplu içe aktarma, arkadaş doğum günü eksik değil</string>
-  <string name="guide_card_title">Doğum günlerini içe aktar</string>
-  <string name="receive_net_mock_success">Net alay başarı alındı</string>
-  <string name="tab_title_agenda">Etkinlik</string>
-  <string name="tab_title_day">Gün</string>
-  <string name="tab_title_month">Ay</string>
-  <string name="tab_title_week">Hafta</string>  
 </resources>
