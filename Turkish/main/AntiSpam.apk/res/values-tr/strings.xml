@@ -18,7 +18,7 @@
   <string name="AD_TITLE_NON_COUNT">Reklam içeriği tespit edilemedi</string>
   <string name="AD_Unistall">Kaldır</string>
   <string name="Call_ADRESS">Yerel Engelli Listesi</string>
-  <string name="Call_BLACKLIST">Çağrı Engelli Listesisi</string>
+  <string name="Call_BLACKLIST">Çağrı Engelli Listesi</string>
   <string name="Call_DEFAULT">Akıllı Engelli Listesi</string>
   <string name="Call_PREFIX">Engelli Listesi Öneki</string>
   <string name="Call_PRIVATE_CALL">Özel Çağrılar</string>
