@@ -159,5 +159,13 @@
   <string name="get_device_id_error">Cihaz kimliği alınamadı</string>
   <string name="home_hint_global_launcher">Poco Masaüstü</string>
   <string name="home_restore_error">Ana ekranı geri yükleme başarısız oldu</string>
-  <string name="self_phone_home">Bu telefon: %s</string> 
+  <string name="self_phone_home">Bu telefon: %s</string>
+  <string name="btn_restore_abort">İptal</string>
+  <string name="btn_restore_cancel">İptal</string>
+  <string name="btn_restore_resume">Devam</string>
+  <string name="btn_restore_retry">Tekrar dene</string>
+  <string name="msg_alert_cancel_restore">Bulut yedekleme geri yükleniyor, durdurulsun mu?</string>
+  <string name="msg_alert_restore_error">Bulut yedeği geri yüklemesi başarısız oldu, lütfen tekrar deneyin.</string>
+  <string name="title_alert_cancel_restore">Geri yüklemeyi durdur</string>
+  <string name="title_alert_restore_error">Geri yükleme başarısız oldu</string>  
 </resources>
