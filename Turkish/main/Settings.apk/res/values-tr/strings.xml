@@ -1831,7 +1831,7 @@
   <string name="install_unknown_applications_title">Google Play dışındaki kaynaklardan uygulama yüklemeye imkan sağlar</string>
   <string name="install_whole_rom">ROM İndir</string>
   <string name="instruction_privacy_password">Bu şifre aşağıdaki öğeleri korur</string>
-  <string name="instruction_title">Talimatlar</string>
+  <string name="instruction_title">Önemli güvenlik bilgileri</string>
   <string name="insufficient_storage">Yetersiz depolama alanı.</string>
   <string name="intent_sender_account_label">Hesap:</string>
   <string name="intent_sender_action_label">Faaliyet:</string>
@@ -5427,4 +5427,6 @@
   <string name="mqs_privacy_dialog_title">Bir hata oluştu</string>
   <string name="notch_force_black_desc">Açık olduğunda, ekranda çentik alanı siyah</string>
   <string name="notch_force_black_title">Ekran çentiğini gizle</string> 
+  <string name="structure_face_enroll_not_able_low_electric_itle">Düşük pil nedeniyle bu özelliği kullanamazsınız</string>
+  <string name="structure_face_enroll_not_able_low_electric_msg">Kaydın başlaması için pilin şarjı en az 5% olmalıdır.</string>  
 </resources>
